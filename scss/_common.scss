@@ -30,7 +30,7 @@ section {
 		position: relative;
 }
 
-video {
+video#bgvid {
 	position: relative;
 	right: 0;
 	bottom: 0;
@@ -39,9 +39,20 @@ video {
 	width: auto;
 	height: auto;
 	z-index: -100;
-	background: url(../img/city-large.jpg) no-repeat;
 	background-size: cover;
 }
+
+.video {
+	position: relative;
+	background: url(../img/city-large.jpg) no-repeat center center;
+	min-height: 380px;
+
+	@media #{$medium-up} {
+		background: none;
+	}
+
+}
+
 
 .line-button {
 	background: transparent;
@@ -49,12 +60,6 @@ video {
 	&:hover {
 		background: $green;
 	}
-}
-
-.video {
-	position: relative;
-	width: 100%;
-	height: auto;
 }
 
 .video-text {
@@ -69,6 +74,6 @@ video {
 			position: relative;
 			margin-top: 20%;
 			color: $white;
-			font-size: $font-size-h1;
+			font-size: $h1-font-size;
 		}
 }
