@@ -2,6 +2,13 @@
  Commonly used custom classes
  */
 
+body {
+	background: $body-bg;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: $font-family-roboto-light
+}
 
 .full-width {
 	width: 100%;
@@ -23,7 +30,7 @@ section {
 		position: relative;
 }
 
-video#bgvid {
+video {
 	position: relative;
 	right: 0;
 	bottom: 0;
@@ -34,10 +41,6 @@ video#bgvid {
 	z-index: -100;
 	background: url(../img/city-large.jpg) no-repeat;
 	background-size: cover;
-}
-
-h1 {
-	color: $white;
 }
 
 .line-button {
@@ -65,5 +68,7 @@ h1 {
 		h1 {
 			position: relative;
 			margin-top: 20%;
+			color: $white;
+			font-size: $font-size-h1;
 		}
 }

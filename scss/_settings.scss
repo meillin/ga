@@ -94,9 +94,17 @@ $include-html-global-classes: $include-html-classes;
 // We use these to define default font weights
 // $font-weight-normal: normal !default;
 // $font-weight-bold: bold !default;
+//
+$font-family-roboto-light: "roboto_light", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$font-family-roboto-medium: "roboto_medium", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$font-family-roboto-bold: "roboto_bold", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 
-$white       : #FFFFFF;
-$green: #1ABC9C;
+$font-size-h1: 55px;
+$font-size-h2: 30px;
+
+$white				: #FFFFFF;
+$green				: #1ABC9C;
+$white-cream	: #F8F8F8;
 // $ghost       : #FAFAFA;
 // $snow        : #F9F9F9;
 // $vapor       : #F6F6F6;
@@ -125,7 +133,7 @@ $green: #1ABC9C;
 // $info-color: #a0d3e8;
 
 // We use these to control various global styles
-// $body-bg: $white;
+$body-bg: $white-cream;
 // $body-font-color: $jet;
 // $body-font-family: $font-family-sans-serif;
 // $body-font-weight: $font-weight-normal;
