@@ -1,3 +1,23 @@
-@import "compass/utilities/sprites";
-@import "customers/*.png";
-@include all-customers-sprites;
+@import "compass/utilities/sprites/base";
+$customers: sprite-map("customers/*.png", $layout: smart);
+
+.radiometer {
+	background-image: sprite-url($customers);
+	background-position: sprite-position($customers, radiometer);
+	@include sprite-dimensions($customers, radiometer);
+	background-repeat: no-repeat;
+}
+
+.relationmonitor {
+	background-image: sprite-url($customers);
+	background-position: sprite-position($customers, relationmonitor);
+	@include sprite-dimensions($customers, relationmonitor);
+	background-repeat: no-repeat;
+}
+
+.v2 {
+	background-image: sprite-url($customers);
+	background-position: sprite-position($customers, v2);
+	@include sprite-dimensions($customers, v2);
+	background-repeat: no-repeat;
+}
