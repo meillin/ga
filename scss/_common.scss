@@ -23,11 +23,28 @@ h1, h2, h3, h4, h5 {
 
 header {
 	position: absolute;
+	width: 100%;
 	z-index: 1;
 
 	ul {
-		color: $white;
+		margin-top: 20px !important;
+		font-family: $font-family-roboto-light;
+		font-size: 20px;
+
+		a {
+			color: $white;
+		}
 	}
+}
+
+nav {
+	img {
+		width: 50px;
+	}
+}
+
+.logo img {
+	width: 100px;
 }
 
 section {
@@ -40,9 +57,6 @@ section {
 	}
 }
 
-.customers {
-
-}
 
 video#bgvid {
 	position: relative;
@@ -58,11 +72,18 @@ video#bgvid {
 
 .video {
 	position: relative;
-	background: url(../img/city-large.jpg) no-repeat center center;
+	background: url(../images/city-large.jpg) no-repeat center center;
 	min-height: 380px;
 
 	@media #{$medium-up} {
 		background: none;
+	}
+}
+
+.video-text h1 {
+
+	@media #{$medium-up} {
+		font-size: 3.75rem !important;
 	}
 
 }
