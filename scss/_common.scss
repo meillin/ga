@@ -49,11 +49,15 @@ nav {
 
 section {
 	position: relative;
+	background: $white-cream;
 }
 
 .services {
 	img {
 		width: 100px;
+	}
+	p {
+		color: $light-paragraph;
 	}
 }
 
