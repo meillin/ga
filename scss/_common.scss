@@ -49,12 +49,16 @@ nav {
 
 section {
 	position: relative;
+}
+
+.services,
+.customers {
 	background: $white-cream;
 }
 
 .services {
 	img {
-		width: 100px;
+		width: 120px;
 	}
 	p {
 		color: $light-paragraph;
