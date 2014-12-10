@@ -1,0 +1,38 @@
+footer {
+
+	background: rgba(22, 22, 22, 1);
+
+	h5, a, * {
+		color: $light-paragraph;
+	}
+
+	h5 {
+		font-size: 14px;
+		font-family: $font-family-roboto-medium;
+	}
+
+	section:nth-child(2) {
+		background: $black;
+	}
+
+	article {
+		margin: 2em 0 2em 0;
+		img {
+			width: 35px;
+			margin-left: -4px;
+		}
+	}
+
+	ul, i {
+		font-size: 12px;
+	}
+
+	.logo-footer{
+		div {
+			margin-top: -10px;
+		}
+		img {
+			width: 50px;
+		}
+	}
+}
