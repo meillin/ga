@@ -1,0 +1,25 @@
+header {
+	position: absolute;
+	width: 100%;
+	z-index: 1;
+
+	ul {
+		margin-top: 20px !important;
+		font-family: $font-family-roboto-light;
+		font-size: 20px;
+
+		a {
+			color: $white;
+		}
+	}
+}
+
+nav {
+	img {
+		width: 50px;
+	}
+}
+
+.logo img {
+	width: 60px;
+}

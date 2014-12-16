@@ -21,31 +21,7 @@ h1, h2, h3, h4, h5 {
 	max-width: initial;
 }
 
-header {
-	position: absolute;
-	width: 100%;
-	z-index: 1;
 
-	ul {
-		margin-top: 20px !important;
-		font-family: $font-family-roboto-light;
-		font-size: 20px;
-
-		a {
-			color: $white;
-		}
-	}
-}
-
-nav {
-	img {
-		width: 50px;
-	}
-}
-
-.logo img {
-	width: 60px;
-}
 
 section {
 	position: relative;
@@ -88,12 +64,31 @@ video#bgvid {
 	}
 }
 
-.video-text h1 {
+.video-text, .main-text {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	background: rgba(0, 0, 0, 0.6);
+	text-align: center;
+	color: $white;
 
-	@media #{$medium-up} {
-		font-size: 3.75rem !important;
+	p {
+		margin-top: 20%;
 	}
 
+	h1 {
+		position: relative;
+		margin-top: 20%;
+		color: $white;
+		font-size: $h1-font-size;
+	}
+}
+
+.main {
+	position: relative;
+	background: url(../images/city-large.jpg) no-repeat center center;
+	min-height: 500px;
 }
 
 
@@ -105,18 +100,3 @@ video#bgvid {
 	}
 }
 
-.video-text {
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	top: 0;
-	background: rgba(0, 0, 0, 0.6);
-	text-align: center;
-
-		h1 {
-			position: relative;
-			margin-top: 20%;
-			color: $white;
-			font-size: $h1-font-size;
-		}
-}
