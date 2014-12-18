@@ -22,4 +22,12 @@ form {
 		padding-top: 10%;
 	}
 
+	.small-1 {
+		padding: 0 !important;
+		label {
+			width: 10px;
+			color: $dirty-red;
+		}
+	}
+
 }
