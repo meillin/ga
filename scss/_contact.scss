@@ -1,4 +1,25 @@
-.form-container {
-	height: 500px;
-	background: pink;
+form {
+
+	* {
+		color: $white;
+	}
+
+	select, option {
+		color: $iron;
+	}
+
+	option {
+		color: $black;
+	}
+}
+
+.contact-page main {
+
+	@extend .main;
+	background: url(../images/city-overlay.jpg);
+
+	@media #{$medium-up} {
+		padding-top: 10%;
+	}
+
 }

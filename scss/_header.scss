@@ -10,6 +10,10 @@ header {
 
 		a {
 			color: $white;
+			 @include transition(color, 0.5s);
+			&:hover {
+				color: $green;
+			}
 		}
 	}
 }

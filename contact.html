@@ -8,7 +8,7 @@
 
     <script src="bower_components/modernizr/modernizr.js"></script>
   </head>
-  <body>
+  <body class="contact-page">
 
 
     <div class="full-width">
@@ -22,19 +22,94 @@
         </div>
         <div class="show-for-medium-up medium-10 columns clearfix">
           <ul class="inline-list right">
-            <li><a href="">ABOUT</a></li>
+            <li><a href="about.html">ABOUT</a></li>
             <li><a href="">WORK</a></li>
             <li><a href="">CUSTOMERS</a></li>
-            <li><a href="">CONTACT</a></li>
+            <li><a href="contact.html">CONTACT</a></li>
             <li><a href="">BLOG</a></li>
           </ul>
         </div>
       </header>
 
-      <section class="form-container text-center">
-          <form class="row">
-            <input type="text" placeholder="your name" />
+      <section class="text-center">
+        <main>
+          <form>
+
+            <div>
+              <div class="row">
+                <div class="small-8 columns small-centered">
+                  <div class="row">
+                    <div class="small-3 columns">
+                      <label for="name" class="right inline">Name</label>
+                    </div>
+                    <div class="small-9 columns">
+                      <input type="text" id="right-label" placeholder="Your name" required>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="small-8 columns small-centered">
+                  <div class="row">
+                    <div class="small-3 columns">
+                      <label for="email" class="right inline">Email</label>
+                    </div>
+                    <div class="small-9 columns">
+                      <input type="email" id="right-label" placeholder="Your email" required>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="small-8 columns small-centered">
+                  <div class="row">
+                    <div class="small-3 columns">
+                      <label for="phone" class="right inline">Phone</label>
+                    </div>
+                    <div class="small-9 columns">
+                      <input type="number" id="right-label" placeholder="When only call if it is necessery">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="small-8 columns small-centered">
+                  <div class="row">
+                    <div class="small-3 columns">
+                      <label for="company" class="right inline">Company</label>
+                    </div>
+                    <div class="small-9 columns">
+                      <input type="text" id="right-label" placeholder="Your company">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="small-8 columns small-centered">
+                  <div class="row">
+                    <div class="small-3 columns">
+                      <label for="budget" class="right inline">Budget</label>
+                    </div>
+                    <div class="small-9 columns">
+                      <select>df
+                        <option value="10000-50000">10000 ~ 50000</option>
+                        <option value="50000-100000">50000 ~ 100000</option>
+                        <option value="100000-500000">100000 ~ 500000</option>
+                        <option value=">500000"> > 500000</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
           </form>
+        </main>
+
       </section>
 
       <footer>
