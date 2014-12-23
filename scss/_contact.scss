@@ -11,6 +11,10 @@ form {
 	option {
 		color: $black;
 	}
+
+	img {
+		width: rem-calc(30);
+	}
 }
 
 .contact-page main {
@@ -19,7 +23,7 @@ form {
 	background: url(../images/city-overlay.jpg);
 
 	@media #{$medium-up} {
-		padding-top: 10%;
+		padding-top: 150px;
 	}
 
 	.small-1 {
