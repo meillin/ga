@@ -8,7 +8,8 @@ body {
 }
 
 h1, h2, h3, h4, h5 {
-	font-family: $font-family-roboto-light
+	font-family: $font-family-roboto-light;
+	color: $white;
 }
 
 /*
@@ -37,15 +38,14 @@ section {
 /*
  Enter text, big header text, overlay text
  */
-main {
-	position: absolute;
+.main-container {
 	width: 100%;
-	height: 100%;
-	top: 0;
-	background: url(../images/sandpaper.png);
-	color: $white;
-	text-align: center;
-	padding-top: 20%;
+	background: url(../images/city-overlay.jpg);
+	background-size: cover;
+
+	img {
+		max-width: 100px;
+	}
 
 	h1 {
 		position: relative;
@@ -54,19 +54,21 @@ main {
 	}
 }
 
+.enter-text {
+	h3 {
+		color: $white;
+		padding: 2em 0;
+	}
+}
+
+main {
+	padding-top: rem-calc(80);
+	padding-bottom: rem-calc(80);
+}
+
 /*
 Background image for the main
  */
-.main {
-	position: relative;
-	background: url(../images/city-large.jpg) no-repeat center center;
-	background-size: cover;
-	min-height: 500px;
-
-	@media #{$medium-up} {
-		height: 600px;
-	}
-}
 
 
 /*

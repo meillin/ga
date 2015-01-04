@@ -12,6 +12,34 @@
 	}
 }
 
+.video-container {
+	h1 {
+		color: $white;
+	}
+	& > div {
+		width: 100%;
+		top: 0;
+
+		&:first-child {
+			position: relative;
+			@media #{$small-up} {
+				//background: url(../images/city-large.jpg) no-repeat center center;
+			}
+			@media #{$medium-up} {
+				background: none;
+			}
+		}
+
+		&:nth-child(2) {
+			position: absolute;
+			height: 100%;
+			padding-top: 20%;
+			background: rgba(0,0,0,0.5);
+		}
+
+	}
+
+}
 
 video#bgvid {
 	position: relative;
@@ -23,14 +51,4 @@ video#bgvid {
 	height: auto;
 	z-index: -100;
 	background-size: cover;
-}
-
-.video {
-	position: relative;
-	background: url(../images/city-large.jpg) no-repeat center center;
-	min-height: 380px;
-
-	@media #{$medium-up} {
-		background: none;
-	}
 }

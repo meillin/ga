@@ -1,0 +1,55 @@
+form {
+
+	color: $black;
+	select, option {
+		color: $steel;
+	}
+
+	legend {
+		background: none;
+		color: $iron;
+	}
+
+	fieldset {
+		border: 1px solid $steel;
+	}
+
+	option {
+		color: $black;
+	}
+
+	img {
+		width: rem-calc(30);
+	}
+
+	input[type="submit"] {
+		background: none;
+		color: $white;
+		padding: 10px 38px;
+	}
+
+	.small-1 {
+		padding: 0 !important;
+	}
+}
+
+.label-require,
+.label-icon img {
+	margin-top: rem-calc(3);
+}
+
+.label-icon {
+	float: right;
+}
+
+.label-require {
+	color: $dirty-red;
+	float: left;
+}
+
+input, textarea {
+	@include input-placeholder {
+		color: $steel;
+		font-style: italic;
+	}
+}

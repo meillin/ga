@@ -2,6 +2,7 @@
 //@import "foundation";
 @import "fonts";
 @import "compass/css3";
+@import "compass/css3/user-interface";
 //@import "sprite";
 // Or selectively include components
 //   "foundation/components/accordion",
@@ -44,5 +45,7 @@
 @import "common";
 @import "header";
 @import "footer";
+@import "form";
 @import "index";
+@import "about";
 @import "contact";
