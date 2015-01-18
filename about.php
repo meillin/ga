@@ -11,10 +11,8 @@
   <body>
 
 
-    <div class="full-width">
-
-      <section class="main-container clearfix">
-        <?php include 'pages/header.php';?>
+    <?php include 'pages/header.php';?>
+      <section class="main-container text-center clearfix">
 
         <div class="enter-text">
           <div class="large-10 large-centered columns">
@@ -111,10 +109,5 @@
 
       <?php include 'pages/footer.php';?>
 
-    </div>
-
-    <script src="bower_components/jquery/dist/jquery.min.js"></script>
-    <script src="bower_components/foundation/js/foundation.min.js"></script>
-    <script src="js/app.js"></script>
   </body>
 </html>

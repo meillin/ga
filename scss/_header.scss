@@ -19,12 +19,20 @@ header {
 	}
 }
 
-nav {
-	img {
-		width: 50px;
-	}
-}
-
 .logo img {
 	width: 60px;
 }
+
+.header-links {
+	background: #000 !important;
+	img {
+		height: 50px;
+	}
+}
+
+.logo-small img {
+	margin: 8px 10px 0;
+}
+
+
+
