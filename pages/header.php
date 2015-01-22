@@ -17,33 +17,28 @@
     </div>
 
 
-
-
-
-
-
       <aside class="left-off-canvas-menu">
           <ul class="off-canvas-list">
             <li><a href="about.php">ABOUT</a></li>
-            <li><a href="">WORKS</a></li>
-            <li><a href="">CUSTOMERS</a></li>
+            <li><a href="work.php">WORKS</a></li>
+            <li><a href="customer.php">CUSTOMERS</a></li>
             <li><a href="contact.php">CONTACT</a></li>
             <li><a href="">BLOG</a></li>
           </ul>
       </aside>
 
 
-      <header class="large-12 columns">
-        <div class="show-for-medium-up medium-2 columns logo">
+      <header class="show-for-medium-up">
+        <div class="medium-2 columns logo">
           <a href="index.php">
             <img src="images/logo.svg" alt="green analysts"/>
           </a>
         </div>
-        <div class="show-for-medium-up medium-10 columns clearfix">
+        <div class="medium-10 columns clearfix">
           <ul class="inline-list right">
             <li><a href="about.php">ABOUT</a></li>
-            <li><a href="">WORKS</a></li>
-            <li><a href="">CUSTOMERS</a></li>
+            <li><a href="work.php">WORKS</a></li>
+            <li><a href="customer.php">CUSTOMERS</a></li>
             <li><a href="contact.php">CONTACT</a></li>
             <li><a href="">BLOG</a></li>
           </ul>

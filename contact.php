@@ -15,17 +15,18 @@
 
       <section class="main-container text-center clearfix">
 
-        <div class="enter-text">
-          <div class="large-10 large-centered columns">
-            <h3>
-              Green Analysts is Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              Facilis fugiat exercitationem, numquam minus nobis possimus reprehenderit veritatis
-              aspernatur eaque ipsa, id quod quis. Temporibus sapiente ducimus culpa, corrupti inventore quas.
-            </h3>
-          </div>
-        </div>
-
         <main>
+
+          <div class="enter-text row">
+            <div class="large-10 large-centered columns">
+              <h3>
+                Green Analysts is Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Facilis fugiat exercitationem, numquam minus nobis possimus reprehenderit veritatis
+                aspernatur eaque ipsa, id quod quis. Temporibus sapiente ducimus culpa, corrupti inventore quas.
+              </h3>
+            </div>
+          </div>
+
           <form class="small-12 medium-8 columns medium-centered">
 
             <div class="row">

@@ -1,5 +1,5 @@
   <footer>
-    <section class="row">
+    <section class="row show-for-medium-up">
       <div class="medium-9 columns">
 
         <article class="small-3 columns">
@@ -38,17 +38,24 @@
           <div><i>Visualizing the future</i></div>
         </article>
       </div>
-
     </section>
 
-    <section class="text-center">
+    <section class="show-for-small-only social text-center">
+       <a href="" target="_blank"><img src="images/svg/social-facebook-line.svg" /></a>
+       <a href="" target="_blank"><img src="images/svg/social-google-plus-line.svg" /></a>
+       <a href="" target="_blank"><img src="images/svg/social-linkedin-line.svg" /></a>
+    </section>
+
+    <section class="text-center info">
       <article class="row">© 2014 · Green Analysts AB · Tel: +45 31 76 61 42 · Company no: 556944-2964 · VAT no: SE556944296401</article>
     </section>
   </footer>
 
- </div>
-  <!-- close the off-canvas menu -->
-  <a class="exit-off-canvas"></a>
+  <footer class="row">
+
+  </footer>
+  </div>
+    <a class="exit-off-canvas"></a>
   </div>
 
 </div>

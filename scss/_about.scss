@@ -1,6 +1,10 @@
 .page-about {
 	article {
 		background: rgba(225, 225, 225, 0.9);
+
+		img {
+			max-width: 100px;
+		}
 	}
 	p {
 		padding: 20px;

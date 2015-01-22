@@ -11,7 +11,7 @@ footer {
 		font-family: $font-family-roboto-medium;
 	}
 
-	section:nth-child(2) {
+	.info {
 		background: $black;
 		font-size: 12px;
 		padding: 10px 0;
@@ -23,6 +23,11 @@ footer {
 			width: 35px;
 			margin-left: -4px;
 		}
+	}
+
+	.social img{
+		width: 35px;
+		height: 35px;
 	}
 
 	ul, i {
