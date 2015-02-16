@@ -22,8 +22,8 @@
         </div>
 
         <div>
-          <h1>Your Business is My Business</h1>
-          <a href="#" class="button radius line-button">SEE OUR WORKS</a>
+          <h1>Your Business is Our Business</h1>
+          <a href="#" class="button radius line-button">SEE OUR WORK</a>
         </div>
 
       </section>
@@ -34,10 +34,7 @@
           <img src="images/svg/database-line.svg" />
           <h2>Big Data</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Aliquam nihil, nostrum animi. Repellat dolorem libero fuga eveniet distinctio
-            asperiores perspiciatis aliquid assumenda voluptates in omnis, commodi,
-            suscipit nisi dicta. Distinctio.
+            If your business is approaching or have already started dealing with big data we can help guide you through this jungle. Big data is not only a new buzz word but a reality that we all have to deal with sooner or later. Data are piling up every day and a lot of it is too valuable to throw away. Thus your business will have to find ways to visualize and extract useful insights and facts from huge amounts of data that are intractable to load for a computer. Even a fast one. We have developed a new big data frame work that allows us to capture your business’ specific needs and knowledge flow. In effect, we can in real-time display learnings from your big data setup.
           </p>
         </div>
 
