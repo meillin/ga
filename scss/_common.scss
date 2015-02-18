@@ -3,13 +3,17 @@
  */
 
 body {
-	background-color: $body-bg;
+	background-color: #1c1d26;
 	font-family: $font-family-roboto-light;
-	color: $body-text;
+	color: scale-color($white, $lightness: -25%);
 }
 
 h1, h2, h3, h4, h5 {
 	font-family: $font-family-roboto-light;
+}
+
+a {
+	color: $green;
 }
 
 /*

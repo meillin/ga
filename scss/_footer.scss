@@ -1,9 +1,9 @@
 footer {
 
-	background: rgba(22, 22, 22, 1);
+	background: #1c1d26;
 
 	h5, a, * {
-		color: $light-paragraph;
+		color: scale-color($white, $lightness: -25%);
 	}
 
 	h5 {

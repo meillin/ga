@@ -65,6 +65,7 @@
 <script src="bower_components/foundation/js/foundation.min.js"></script>
 <script src="bower_components/foundation/js/foundation/foundation.offcanvas.js"></script>
 <script src="bower_components/foundation/js/foundation/foundation.equalizer.js"></script>
+<script src="bower_components/jquery.dotdotdot/jquery.dotdotdot.min.js"></script>
 
 <script src="js/app.js"></script>
 

@@ -6,15 +6,15 @@
 
     <div class="full-width">
 
-    <div class="header-links show-for-small-only">
-      <div class="text-left left">
-        <a class="left-off-canvas-toggle" href="#" ><img src="images/svg/list.svg" /></a>
-      </div>
+      <div class="header-links show-for-small-only">
+        <div class="text-left left">
+          <a class="left-off-canvas-toggle" href="#" ><img src="images/svg/list.svg" /></a>
+        </div>
 
-      <div class="text-right logo-small">
-        <a href="index.php"><img src="images/logo.svg" alt="green analysts" height="50"/></a>
+        <div class="text-right logo-small">
+          <a href="index.php"><img src="images/logo.svg" alt="green analysts" height="50"/></a>
+        </div>
       </div>
-    </div>
 
 
       <aside class="left-off-canvas-menu">
@@ -27,22 +27,32 @@
           </ul>
       </aside>
 
-
-      <header class="show-for-medium-up">
-        <div class="medium-2 columns logo">
-          <a href="index.php">
-            <img src="images/logo.svg" alt="green analysts"/>
-          </a>
-        </div>
-        <div class="medium-10 columns clearfix">
-          <ul class="inline-list right">
-            <li><a href="about.php">ABOUT</a></li>
-            <li><a href="work.php">WORKS</a></li>
-            <li><a href="customer.php">CUSTOMERS</a></li>
-            <li><a href="contact.php">CONTACT</a></li>
-            <li><a href="">BLOG</a></li>
+      <header>
+        <nav class="top-bar show-for-medium-up" data-topbar role="navigation">
+          <ul class="title-area">
+            <li class="name">
+              <h1><a href="/ga"><img class="logo" src="images/logo.svg" alt="green analysts" width="30"/> GREEN ANALYSTS</a></h1>
+            </li>
           </ul>
-        </div>
-      </header>
 
+          <section class="top-bar-section">
+            <!-- Right Nav Section -->
+            <ul class="right">
+              <li class="has-dropdown"><a href="about.php">SERVICES</a>
+                <ul class="dropdown">
+                  <li><a href="#">Big data</a></li>
+                  <li><a href="#">Marketing</a></li>
+                </ul>
+              </li>
+              <li><a href="work.php">WORKS</a></li>
+              <li><a href="customer.php">CUSTOMERS</a></li>
+              <li><a href="contact.php">CONTACT</a></li>
+              <li><a href="">BLOG</a></li>
+
+
+            </ul>
+
+          </section>
+        </nav>
+      </header>
 

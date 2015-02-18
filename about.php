@@ -23,13 +23,14 @@
               </h3>
             </div>
           </div>
-<div class="row" data-equalizer>
+
+        <div data-equalizer class="page-about_grid">
           <div class="large-4 medium-6 columns" data-equalizer-watch>
             <article>
               <img src="images/svg/database-line.svg" />
               <h2>Big Data</h2>
               <p>
-                Big data is not only a new buzz word but a reality that we all have to deal with sooner or later. Data are piling up every day and a lot of it is too valuable to throw away. 
+                Big data is not only a new buzz word but a reality that we all have to deal with sooner or later. Data are piling up every day and a lot of it is too valuable to throw away.
               </p>
             </article>
           </div>
@@ -53,7 +54,9 @@
               </p>
             </article>
           </div>
+        </div>
 
+        <div data-equalizer class="page-about_grid">
           <div class="large-4 medium-6 columns" data-equalizer-watch>
             <article>
               <img src="images/svg/database-line.svg" />
@@ -83,7 +86,9 @@
               </p>
             </article>
           </div>
-</div>
+        </div>
+
+
         </main>
       </section>
 

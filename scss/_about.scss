@@ -1,6 +1,13 @@
 .page-about {
+	.page-about_grid {
+		@extend .clearfix;
+		margin-bottom: 20px;
+	}
+
 	article {
-		background: rgba(225, 225, 225, 0.9);
+		background: rgba(225, 225, 225, 0.7);
+		height: 100%;
+
 		p {text-align: justify;}
 
 		img {
