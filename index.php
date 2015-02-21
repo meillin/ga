@@ -33,7 +33,7 @@
         <div class="large-4 medium-6 columns">
           <a href="big-data">
             <img src="images/svg/database-line.svg" />
-            <h2>Big Data</h2>
+            <h2>Big data</h2>
             <p>
               If your business is approaching or have already started dealing with big data we can help guide you through this jungle. Big data is not only a new buzz word but a reality that we all have to deal with sooner or later. Data are piling up every day and a lot of it is too valuable to throw away. Thus your business will have to find ways to visualize and extract useful insights and facts from huge amounts of data that are intractable to load for a computer. Even a fast one. We have developed a new big data frame work that allows us to capture your business’ specific needs and knowledge flow. In effect, we can in real-time display learnings from your big data setup.
               <span class='more'>Read more</span>
@@ -44,12 +44,9 @@
 
         <div class="large-4 medium-6 columns">
           <img src="images/svg/yen-line-white.svg" />
-          <h2>Pricing Strategies</h2>
+          <h2>Pricing strategies</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Aliquam nihil, nostrum animi. Repellat dolorem libero fuga eveniet distinctio
-            asperiores perspiciatis aliquid assumenda voluptates in omnis, commodi,
-            suscipit nisi dicta. Distinctio.
+            Setting the right price for your products should be determined by what consumers are willing to pay for it. Consequently, a simple price = cost + markup is most likely sub-optimal and should be revised.
             <span class='more'>Read more</span>
           </p>
         </div>
@@ -58,46 +55,34 @@
           <img src="images/svg/target-line-white.svg" />
           <h2>Marketing</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Aliquam nihil, nostrum animi. Repellat dolorem libero fuga eveniet distinctio
-            asperiores perspiciatis aliquid assumenda voluptates in omnis, commodi,
-            suscipit nisi dicta. Distinctio.
+            Effective marketing takes the analysis one step further into real consumer behavior by measuring the return on the marketing investment.
             <span class='more'>Read more</span>
           </p>
         </div>
 
         <div class="large-4 medium-6 columns">
           <img src="images/svg/database-line.svg" />
-          <h2>Big Data</h2>
+          <h2>CRM</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Aliquam nihil, nostrum animi. Repellat dolorem libero fuga eveniet distinctio
-            asperiores perspiciatis aliquid assumenda voluptates in omnis, commodi,
-            suscipit nisi dicta. Distinctio.
+            Depending on where in the life-cycle a given customer is located they are triggered by different messages. Figuring out which message should go to which customer can be discovered and quantified through predictive analytics.
             <span class='more'>Read more</span>
           </p>
         </div>
 
         <div class="large-4 medium-6 columns">
           <img src="images/svg/yen-line-white.svg" />
-          <h2>Pricing Strategies</h2>
+          <h2>Sales drivers</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Aliquam nihil, nostrum animi. Repellat dolorem libero fuga eveniet distinctio
-            asperiores perspiciatis aliquid assumenda voluptates in omnis, commodi,
-            suscipit nisi dicta. Distinctio.
+            Sales in any sector today are driven by many different variables e.g. seasonality, advertising, promotion, price, distribution, brand equity, consumer trust etc. The list goes on. Determining the volume for each factor is important as it can help identify bottlenecks, as well as untapped potential, in your sales strategy.
             <span class='more'>Read more</span>
           </p>
         </div>
 
         <div class="large-4 medium-6 columns">
           <img src="images/svg/target-line-white.svg" />
-          <h2>Marketing</h2>
+          <h2>Predictive maintenance</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Aliquam nihil, nostrum animi. Repellat dolorem libero fuga eveniet distinctio
-            asperiores perspiciatis aliquid assumenda voluptates in omnis, commodi,
-            suscipit nisi dicta. Distinctio.
+            In these competitive times, the cost of a broken important piece of machinery can be devastating to any factory’s profit margins. The possibility to predict future breakdowns provides the opportunity to schedule replacement/maintenance of critical parts during low impact times. Green Analysts develop and maintain predictive models that monitor machine performance in real-time so that any identified deterioration and break down pattern issue an alert.
             <span class='more'>Read more</span>
           </p>
         </div>
