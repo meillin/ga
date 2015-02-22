@@ -20,9 +20,7 @@
           <div class="enter-text row">
             <div class="large-10 large-centered columns">
               <h3>
-                Green Analysts is Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Facilis fugiat exercitationem, numquam minus nobis possimus reprehenderit veritatis
-                aspernatur eaque ipsa, id quod quis. Temporibus sapiente ducimus culpa, corrupti inventore quas.
+                We're always happy to hear about new and old business challenges. Feel free to drop us a line about your specific conundrum and we'll get back to you ASAP!
               </h3>
             </div>
           </div>
@@ -55,7 +53,7 @@
                   <label for="phone" class="label-icon"><img src="images/svg/telephone.svg" /></label>
                 </div>
                 <div class="small-10 columns">
-                  <input type="number" id="right-label" placeholder="When only call if it is necessery">
+                  <input type="number" id="right-label" placeholder="Only if you want us to give you a call">
                 </div>
                 <div class="small-1 columns"><label class="label-require"></label></div>
 
@@ -80,20 +78,9 @@
                 <legend>Your project (optional)</legend>
 
                   <div class="small-6 columns">
-                    <label for="budget" class="label-icon left">Expected budget</label>
-                    <select>
-                      <option>Choose your badget</option>
-                      <option value="10000-50000">10000 ~ 50000</option>
-                      <option value="50000-100000">50000 ~ 100000</option>
-                      <option value="100000-500000">100000 ~ 500000</option>
-                      <option value=">500000"> > 500000</option>
-                    </select>
-                  </div>
-
-                  <div class="small-6 columns">
                     <label for="stage" class="label-icon left">Budget stage</label>
                     <select>
-                      <option>Choose your badget stage</option>
+                      <option>Choose your budget stage</option>
                       <option value="approved">Approved</option>
                       <option value="planning">Planning</option>
                     </select>
@@ -104,18 +91,8 @@
                     <select>
                       <option>Choose expected start date</option>
                       <option value="1">Within 1 month</option>
-                      <option value="2">1-2 month</option>
-                      <option value="3">Over 2 month</option>
-                    </select>
-                  </div>
-
-
-                  <div class="small-6 columns">
-                    <label for="stage" class="label-icon left">Expected start date</label>
-                    <select>
-                      <option value="1">Within 1 month</option>
-                      <option value="2">1-2 month</option>
-                      <option value="3">Over 2 month</option>
+                      <option value="2">1-2 months</option>
+                      <option value="3">Over 2 months</option>
                     </select>
                   </div>
 
