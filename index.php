@@ -28,7 +28,7 @@
 
       </section>
 
-      <section class="text-center pushdown services">
+      <section class="text-center services">
 
         <div class="large-4 medium-6 columns">
           <a href="big-data.php">
@@ -94,7 +94,7 @@
 
       <hr>
 
-<!--       <section class="row pushdown customers text-center">
+      <section class="row pushdown customers text-center">
         <div class="large-12 columns">
           <ul class="small-block-grid-3">
             <li class="radiometer"><img src="images/customers/radiometer.png"/></li>
@@ -102,10 +102,9 @@
             <li class="relationmonitor"><img src="images/customers/relationmonitor.png" /></li>
           </ul>
         </div>
-      </section> -->
+      </section>
 
       <?php include 'pages/footer.php';?>
-
 
   </body>
 </html>

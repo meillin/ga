@@ -31,7 +31,7 @@
         <nav class="top-bar show-for-medium-up" data-topbar role="navigation">
           <ul class="title-area">
             <li class="name">
-              <h1><a href="index.php"><img class="logo" src="images/logo.svg" alt="green analysts" width="30"/> GREEN ANALYSTS</a></h1>
+              <h1><a href="index.php"><img class="logo" src="images/logo-white.svg" alt="green analysts" width="30"/> GREEN ANALYSTS</a></h1>
             </li>
           </ul>
 
