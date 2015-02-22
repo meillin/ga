@@ -23,6 +23,29 @@
             </div>
           </div>
 
+          <div class="row company-members text-left">
+            <div class="medium-6 columns">
+              <div class="small-4 columns">
+                <img src="images/michael-green.jpg">
+              </div>
+              <div class="small-8 columns">
+                <h5>Michael Green - CEO and Founder</h5>
+                Michael is our commercial guy and has worked with clients across multiple industries.
+                He comes from a position as CTO at Data Intelligence.
+              </div>
+            </div>
+            <div class="medium-6 columns">
+              <div class="small-4 columns">
+                <img src="images/li-wen.jpg">
+              </div>
+              <div class="small-8 columns">
+                <h5>Liwen You - Principal consultant and co-founder</h5>
+                Liwen is a leading expert on econometric modeling in Sweden. She has many years of hands-on experience with implementing predictive models within several industries including telecom, life-science and traveling.
+                 Liwen also holds a PhD in Machine Learning.
+              </div>
+            </div>
+          </div>
+
         </div>
 
         </main>

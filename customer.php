@@ -25,12 +25,8 @@
             </div>
           </div>
 
-
-
-
             <div class="grid row">
 
-            <div class="row">
               <figure class="effect-bubba medium-6 columns">
                 <img src="images/customers/radiometerbg.jpg" />
                 <figcaption>
@@ -46,9 +42,7 @@
                   <p>Bubba likes to appear out of thin air.</p>
                 </figcaption>
               </figure>
-            </div>
 
-            <div class="row pushdown pushup">
               <figure class="effect-bubba medium-6 columns">
                 <img src="images/customers/relationmonitor.jpg" />
                 <figcaption>
@@ -56,7 +50,6 @@
                   <p>Bubba likes to appear out of thin air.</p>
                 </figcaption>
               </figure>
-            </div>
 
             </div>
 

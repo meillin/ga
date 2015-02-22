@@ -8,3 +8,11 @@ $(document).ready(function() {
 	});
 
 });
+
+$(document)
+.on('open.fndtn.offcanvas', '[data-offcanvas]', function() {
+  $('.burger').addClass('burger-animate');
+})
+.on('close.fndtn.offcanvas', '[data-offcanvas]', function() {
+  $('.burger').removeClass('burger-animate');
+})

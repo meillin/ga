@@ -6,14 +6,14 @@
 
     <div class="full-width">
 
-      <div class="header-links show-for-small-only">
+      <div class="mobile-header header-links show-for-small-only">
         <div class="text-left left">
-          <a class="left-off-canvas-toggle" href="#" ><img src="images/svg/list.svg" /></a>
+          <a class="menu burger left-off-canvas-toggle" href="#" ><span></span></a>
         </div>
 
-        <div class="text-right logo-small">
-          <a href="index.php"><img src="images/logo.svg" alt="green analysts" height="50"/></a>
-        </div>
+    <!--     <div class="text-right logo-small">
+          <a href="index.php"><img src="images/logo.svg" alt="green analysts"/></a>
+        </div> -->
       </div>
 
 
@@ -32,8 +32,9 @@
           <ul class="title-area">
             <li class="name">
               <h1>
-                <a href="index.php"><img class="logo" src="images/logo-white.svg" alt="green analysts" width="30"/>
-                <span class="show-for-large">GREEN ANALYSTS</span>
+                <a href="index.php">
+                  <img class="logo left" src="images/logo-white.svg" alt="green analysts" width="30"/>
+                  <span class="show-for-large left">GREEN ANALYSTS</span>
                 </a>
               </h1>
             </li>
