@@ -34,7 +34,7 @@
               <figure class="effect-bubba medium-6 columns">
                 <img src="images/customers/radiometerbg.jpg" />
                 <figcaption>
-                  <h3>RADIOMETER</h3>
+                  <h2>RADIOMETER</h2>
                   <p>Bubba likes to appear out of thin air.</p>
                 </figcaption>
               </figure>
@@ -42,17 +42,17 @@
               <figure class="effect-bubba medium-6 columns">
                 <img src="images/customers/tv2bg.jpg" />
                 <figcaption>
-                  <h3>TV2</h3>
+                  <h2>TV2</h2>
                   <p>Bubba likes to appear out of thin air.</p>
                 </figcaption>
               </figure>
             </div>
 
-            <div class="row pushdown">
+            <div class="row pushdown pushup">
               <figure class="effect-bubba medium-6 columns">
                 <img src="images/customers/relationmonitor.jpg" />
                 <figcaption>
-                  <h3>RALATIONMONITOR</h3>
+                  <h2>RALATIONMONITOR</h2>
                   <p>Bubba likes to appear out of thin air.</p>
                 </figcaption>
               </figure>

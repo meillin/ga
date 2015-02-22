@@ -13,10 +13,7 @@ form {
 	}
 
 	fieldset {
-		border: 1px solid $steel;
-		label {
-			color: white;
-		}
+		border: 1px solid $iron;
 	}
 
 	option {
@@ -29,7 +26,7 @@ form {
 
 	input[type="submit"] {
 		background: none;
-		color: $white;
+		color: $green;
 		padding: 10px 38px;
 	}
 
