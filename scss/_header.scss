@@ -5,6 +5,10 @@ header {
 	z-index: 4;
 }
 
+.mobile-header {
+	height: 40px;
+}
+
 .top-bar {
 	background: rgba(26, 188, 156, 0.9);
 }
@@ -15,19 +19,76 @@ header {
 
 .logo {
 	width: 30px;
-	margin: -4px 5px 0 0;
+	margin: 5px 5px 0 0;
 }
 
 .header-links {
 	background: #000 !important;
 	img {
-		height: 50px;
+		height: 35px;
 	}
 }
 
-.logo-small img {
-	margin: 8px 10px 0;
+/* btn */
+.burger {
+	position: relative;
+	display:  inline-block;
+	width: 30px;
+	height: 30px;
+	top: 6px;
+	left: 10px;
 }
+.burger span {
+	margin: 0 auto;
+	position: relative;
+	top: 12px;
+}
+.burger span:before, .burger span:after {
+	position: absolute;
+	content: '';
+}
+.burger span, .burger span:before, .burger span:after {
+	width: 30px;
+	height: 4px;
+	background-color: #fff;
+	display: block;
+}
+.burger span:before {
+	margin-top: -10px;
+}
+.burger span:after {
+	margin-top: 10px;
+}
+
+.burger span {
+	-webkit-transition-duration: 0s;
+	-webkit-transition-delay: .2s;
+}
+.burger-animate span {
+	background-color: rgba(0,0,0,0.0);
+	-webkit-transition-delay: .2s;
+}
+.burger span:before {
+	-webkit-transition-property: margin, -webkit-transform;
+	-webkit-transition-duration: .2s;
+	-webkit-transition-delay: .2s, 0;
+}
+.burger-animate span:before {
+	margin-top: 0;
+	-webkit-transform: rotate(45deg);
+	-webkit-transition-delay: 0, .2s;
+}
+.burger span:after {
+	-webkit-transition-property: margin, -webkit-transform;
+	-webkit-transition-duration: .2s;
+	-webkit-transition-delay: .2s, 0;
+}
+.burger-animate span:after {
+	margin-top: 0;
+	-webkit-transform: rotate(-45deg);
+	-webkit-transition-delay: 0, .2s;
+}
+
 
 
 

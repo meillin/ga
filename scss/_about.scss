@@ -1,20 +1,16 @@
-.page-about {
-	.page-about_grid {
-		@extend .clearfix;
-		margin-bottom: 20px;
+.company-members {
+	img {
+		border-radius: 50%;
+	}
+	.small-8 {
+		padding: 0;
+		text-align: justify;
 	}
 
-	article {
-		background: rgba(225, 225, 225, 0.7);
-		height: 100%;
-
-		p {text-align: justify;}
-
-		img {
-			max-width: 100px;
+	& > div {
+		@media #{$small-only} {
+				margin-bottom: rem-calc(20);
 		}
 	}
-	p {
-		padding: 20px;
-	}
+
 }
