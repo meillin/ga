@@ -9,6 +9,10 @@ header {
 	background: rgba(26, 188, 156, 0.9);
 }
 
+.top-bar-section ul li > a {
+	font-size: rem-calc(15);
+}
+
 .logo {
 	width: 30px;
 	margin: -4px 5px 0 0;
