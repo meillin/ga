@@ -19,9 +19,9 @@
 
       <aside class="left-off-canvas-menu">
           <ul class="off-canvas-list">
-            <li><a href="about.php">ABOUT</a></li>
-            <li><a href="work.php">WORKS</a></li>
-            <li><a href="customer.php">CUSTOMERS</a></li>
+            <li><a href="about.php">WHO WE ARE</a></li>
+            <li><a href="work.php">WHAT WE DO</a></li>
+            <li><a href="customer.php">WHO WE HELP</a></li>
             <li><a href="contact.php">CONTACT</a></li>
             <li><a href="">BLOG</a></li>
           </ul>
@@ -38,14 +38,14 @@
           <section class="top-bar-section">
             <!-- Right Nav Section -->
             <ul class="right">
-              <li class="has-dropdown"><a href="about.php">SERVICES</a>
+              <li><a href="about.php">WHO WE ARE</a></li>
+              <li class="has-dropdown"><a href="about.php">WHAT WE DO</a>
                 <ul class="dropdown">
-                  <li><a href="#">Big data</a></li>
-                  <li><a href="#">Marketing</a></li>
+                  <li><a href="big-data.php">Big data</a></li>
+                  <li><a href="pricing-strategies.php">Pricing</a></li>
                 </ul>
               </li>
-              <li><a href="work.php">WORKS</a></li>
-              <li><a href="customer.php">CUSTOMERS</a></li>
+              <li><a href="customer.php">WHO WE HELP</a></li>
               <li><a href="contact.php">CONTACT</a></li>
               <li><a href="">BLOG</a></li>
 
