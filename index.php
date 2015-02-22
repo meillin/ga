@@ -63,7 +63,7 @@
         </div>
 
         <div class="large-4 medium-6 columns">
-          <img src="images/svg/database-line.svg" />
+          <img src="images/svg/fi-mail.svg" />
           <h2>CRM</h2>
           <p>
             Depending on where in the life-cycle a given customer is located they are triggered by different messages. Figuring out which message should go to which customer can be discovered and quantified through predictive analytics.
@@ -72,7 +72,7 @@
         </div>
 
         <div class="large-4 medium-6 columns">
-          <img src="images/svg/yen-line-white.svg" />
+          <img src="images/svg/fi-shopping-cart.svg" />
           <h2>Sales drivers</h2>
           <p>
             Sales in any sector today are driven by many different variables e.g. seasonality, advertising, promotion, price, distribution, brand equity, consumer trust etc. The list goes on. Determining the volume for each factor is important as it can help identify bottlenecks, as well as untapped potential, in your sales strategy.
@@ -81,7 +81,7 @@
         </div>
 
         <div class="large-4 medium-6 columns">
-          <img src="images/svg/target-line-white.svg" />
+          <img src="images/svg/fi-wrench.svg" />
           <h2>Predictive maintenance</h2>
           <p>
             In these competitive times, the cost of a broken important piece of machinery can be devastating to any factory’s profit margins. The possibility to predict future breakdowns provides the opportunity to schedule replacement/maintenance of critical parts during low impact times. Green Analysts develop and maintain predictive models that monitor machine performance in real-time so that any identified deterioration and break down pattern issue an alert.
