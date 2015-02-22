@@ -21,7 +21,11 @@ a {
  */
 
 .pushdown {
-	margin-top: 20px !important;
+	margin-top: rem-calc(20) !important;
+}
+
+.pushup {
+	margin-bottom: rem-calc(20) !important;
 }
 
 .full-width {
@@ -52,15 +56,14 @@ section {
 
 .enter-text {
 	h3 {
-		color: $white;
-		padding: 2em 0;
+		color: $oil;
+		padding: 1em 0;
 	}
 }
 
 main {
 	@media #{$medium-up} {
-		padding-top: rem-calc(80);
-		padding-bottom: rem-calc(80);
+		margin-top: rem-calc(50);
 	}
 }
 
@@ -73,10 +76,11 @@ Background image for the main
 	Styles for buttons
  */
 .line-button {
-	border: 1px solid $white;
+	border: 1px solid $green;
 	@include transition(border-color, 0.5s);
 	&:hover {
-		border-color: $green;
+		background: $green;
+		color: $white;
 	}
 }
 
