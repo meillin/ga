@@ -9,7 +9,6 @@
   </head>
   <body>
 
-
       <?php include 'pages/header.php';?>
 
       <section class="video-container text-center clearfix show-for-medium-up">
