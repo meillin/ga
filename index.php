@@ -31,7 +31,7 @@
       <section class="text-center pushdown services">
 
         <div class="large-4 medium-6 columns">
-          <a href="big-data">
+          <a href="big-data.php">
             <img src="images/svg/database-line.svg" />
             <h2>Big data</h2>
             <p>
@@ -43,12 +43,14 @@
 
 
         <div class="large-4 medium-6 columns">
-          <img src="images/svg/yen-line-white.svg" />
-          <h2>Pricing strategies</h2>
-          <p>
-            Setting the right price for your products should be determined by what consumers are willing to pay for it. Consequently, a simple price = cost + markup is most likely sub-optimal and should be revised.
-            <span class='more'>Read more</span>
-          </p>
+          <a href="pricing-strategies.php">
+            <img src="images/svg/yen-line-white.svg" />
+            <h2>Pricing strategies</h2>
+            <p>
+              Setting the right price for your products should be determined by what consumers are willing to pay for it. Consequently, a simple price = cost + markup is most likely sub-optimal and should be revised.
+              <span class='more'>Read more</span>
+            </p>
+          </a>
         </div>
 
         <div class="large-4 medium-6 columns">

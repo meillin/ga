@@ -1,7 +1,7 @@
 
 .services {
 	> div p {
-		max-height: 100px;
+		height: 100px;
 		text-align: justify;
 		span {
 			text-decoration: underline;
@@ -16,6 +16,9 @@
 	}
 	h2 {
 		color: $white;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
 	}
 	a {
 		color: scale-color($white, $lightness: -25%);

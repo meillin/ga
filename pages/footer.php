@@ -5,9 +5,9 @@
         <article class="small-3 columns">
           <h5>Social</h5>
           <ul class="no-bullet">
-            <li><img src="images/svg/social-facebook-line.svg" /></li>
-            <li><img src="images/svg/social-google-plus-line.svg" /></li>
-            <li><img src="images/svg/social-linkedin-line.svg" /></li>
+            <li><a href="https://www.facebook.com/greenanalysts"><img src="images/svg/social-facebook-line.svg" /></a></li>
+            <li><a href="https://www.google.com/+GreenanalystsDK"><img src="images/svg/social-google-plus-line.svg" /></a></li>
+            <li><a href="https://www.linkedin.com/company/green-analysts-ab"><img src="images/svg/social-linkedin-line.svg" /></a></li>
           </ul>
         </article>
 
@@ -23,10 +23,17 @@
 
         <article class="small-3 columns">
           <h5>Contact</h5>
-          <ul class="no-bullet">
-            <li>+45 3176 6142</li>
-            <li>meilan.dk@gmail.com</li>
-          </ul>
+          <div class="vcard">
+            <div class="org">Green Analysts</div>
+            <div class="adr">
+              <div class="street-address">Dronningens tværgade 36</div>
+              <span class="postal-code">1302</span>
+              <span class="locality">Copenhagen</span>
+              <div class="country-name">Denmark</div>
+            </div>
+            <div class="tel">+45 31 76 61 42</div>
+            <a class="email" href="mailto:mike@greenanalysts.com">mike@greenanalysts.com</a>
+          </div>
         </article>
 
         <div class="small-3 columns"></div>
