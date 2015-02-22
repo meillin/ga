@@ -22,7 +22,7 @@
               Price elasticity changes over time depending on, among other factors, seasonality, distribution, competitor activities, weather and brand strength. Therefor, the right price is also changing over time which means your business should try to capture this market dynamics to optimize profit.
             </p>
 
-            <img src="images/right-price.png" width="400">
+            <img src="images/price.svg" width="300">
         </div>
         </main>
       </section>
