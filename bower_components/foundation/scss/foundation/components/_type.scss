@@ -422,21 +422,21 @@ $align-class-breakpoints:
     }
 
     /* Microformats */
-    .vcard {
-      display: inline-block;
-      margin: $microformat-margin;
-      border: $microformat-border-width $microformat-border-style $microformat-border-color;
-      padding: $microformat-padding;
+    // .vcard {
+    //   display: inline-block;
+    //   margin: $microformat-margin;
+    //   border: $microformat-border-width $microformat-border-style $microformat-border-color;
+    //   padding: $microformat-padding;
 
-      li {
-        margin: 0;
-        display: block;
-      }
-      .fn {
-        font-weight: $microformat-fullname-font-weight;
-        font-size: $microformat-fullname-font-size;
-      }
-    }
+    //   li {
+    //     margin: 0;
+    //     display: block;
+    //   }
+    //   .fn {
+    //     font-weight: $microformat-fullname-font-weight;
+    //     font-size: $microformat-fullname-font-size;
+    //   }
+    // }
 
     .vevent {
       .summary { font-weight: $microformat-summary-font-weight; }

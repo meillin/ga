@@ -3,9 +3,9 @@
  */
 
 body {
-	background-color: #1c1d26;
+	background-color: $body-bg;
 	font-family: $font-family-roboto-light;
-	color: scale-color($white, $lightness: -25%);
+	color: $body-text;
 }
 
 h1, h2, h3, h4, h5 {
@@ -41,13 +41,11 @@ section {
  */
 .main-container {
 	width: 100%;
-	background: url(../images/city-overlay.jpg);
-	background-size: cover;
-
+	//background: url(../images/city-overlay.jpg);
+	//background-size: cover;
 
 	h1 {
 		position: relative;
-		color: $white;
 		font-size: $h1-font-size;
 	}
 }

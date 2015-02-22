@@ -2,7 +2,7 @@
     <section class="row show-for-medium-up">
       <div class="medium-9 columns">
 
-        <article class="small-3 columns">
+        <article class="small-2 columns">
           <h5>Social</h5>
           <ul class="no-bullet">
             <li><a href="https://www.facebook.com/greenanalysts"><img src="images/svg/social-facebook-line.svg" /></a></li>
@@ -11,7 +11,7 @@
           </ul>
         </article>
 
-        <article class="small-3 columns">
+        <article class="small-2 columns">
           <h5>Pages</h5>
           <ul class="no-bullet">
             <li><a href="">About</a></li>
@@ -21,7 +21,7 @@
           </ul>
         </article>
 
-        <article class="small-3 columns">
+        <article class="small-8 columns">
           <h5>Contact</h5>
           <div class="vcard">
             <div class="org">Green Analysts</div>
