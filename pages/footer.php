@@ -24,7 +24,7 @@
         <article class="small-8 columns">
           <h5>Contact</h5>
           <div class="vcard">
-            <div class="org">Green Analysts</div>
+            <div class="fn org">Green Analysts</div>
             <div class="adr">
               <div class="street-address">Dronningens tværgade 36</div>
               <span class="postal-code">1302</span>
