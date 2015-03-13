@@ -46,24 +46,18 @@
               <img src="images/price.svg" width="300">
               <h2>A simple example</h2>
               <p class="text-left">
-                Suppose you just have one product and no competitors and would like to figure out what the optimal price of your product/service is. In this case a simple mathematical relation \(\ln y = \beta \ln p + a \) where y is your sales volume, p is your price and a is your brand equity, is sufficient. In this setting there is a closed form solution to your challenge. The optimal price is simply $$p=\frac{\beta}{\beta+1}\cdot\frac{c-\lambda}{m}.$$ Now most businesses have more important factors than this, but it neatly illustrates how statistics can help you find the optimal price in a competitive market.
+                Suppose you just have one product and no competitors and would like to figure out what the optimal price of your product/service is. In this case a simple mathematical relation \(\ln y = \beta \ln p + a \) where y is your sales volume, p is your price and a is your brand equity, is sufficient. In this setting there is a closed form solution to your challenge. The optimal price is simply $$p=\frac{\beta}{\beta+1}\cdot\frac{c-\lambda}{m}.$$ Now most businesses have many more important factors than this, but it neatly illustrates how statistics can help you find the optimal price in a competitive market.
               </p>
               <h2>Price optimization</h2>
 
               <p class="text-left">
-              Setting the right price for your products should be determined by what consumers are willing to pay for it. Consequently, a simple approach like adding a fixed profit margin to the price is most likely sub-optimal. Continuously and consistently measuring and quantifying the effect of price changes on your sales provides an unbiased and objective estimate of your price elasticity which will, in turn, allow you to do price optimization.
+              As mentioned earlier, setting the right price for your products should be determined by what consumers are willing to pay for it. Consequently, a simple fixed profit margin is most likely sub-optimal. Continuously and consistently measuring and quantifying the effect of price changes on your sales provides an unbiased and objective estimate of your price elasticity which will, in turn, allow you to do price optimization.
               </p>
 
-              <h3>Price elasticity of demand</h3>
+              <h3>Price elasticity of demand and knowing what to optimize</h3>
 
               <p class="text-left">
-              Price elasticity changes over time depending on, among other factors, seasonality, distribution, competitor activities, weather and brand strength. Therefor, the right price is also changing over time which means your business should try to capture this market dynamics to optimize profit.
-              </p>
-
-              <h3>Knowing what to optimize</h3>
-
-              <p class="text-left">
-              Depending on what you need to optimize the price should be adapted to fit that strategy. Typically your business would like to optimize one of the following:
+              Price elasticity changes over time depending on, among other factors, seasonality, distribution, competitor activities, weather and brand strength. Therefor, the right price is also changing over time which means your business should try to capture this market dynamics to optimize profit. Also, depending on what you need to optimize the price should be adapted to fit that strategy. Typically your business would like to optimize one of the following:
               </p>
               <ul class="text-left"><li>Sales volume</li><li>Revenue</li><li>Profit</li></ul>
               <p class="text-left">
@@ -83,7 +77,7 @@
                 <li>Are you aware of how lowering prices on certain products will affect the sales of your other products?</li>
               </ul>
               <p class="text-left">
-              If you have then you also know that these questions are very hard, if not impossible, to answer without an analytical approach. Prize optimization and sales modelling can help you discover the correct pricing strategy for your business and your products.
+              If you have then you also know that these questions are very hard, if not impossible, to answer without an analytical approach. Price optimization and sales modeling can help you discover the correct pricing strategy for your business and your products.
               </p>
             </div>
           </div>

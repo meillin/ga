@@ -48,6 +48,7 @@
                 <ul class="dropdown">
                   <li><a href="big-data.php">Big data</a></li>
                   <li><a href="pricing-strategies.php">Pricing</a></li>
+                  <li><a href="marketing-effectiveness.php">Marketing</a></li>
                 </ul>
               </li>
               <li><a href="customer.php">WHO WE HELP</a></li>
