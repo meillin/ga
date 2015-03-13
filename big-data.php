@@ -15,6 +15,7 @@
     <meta property="og:url" content="greenanalysts.com" >
     <meta property="og:description" content="Green Analysts is a machine learning consulting company specializing in building, customizing and integrating predictive analytics solutions in our clients' decision making process. In short, we help companies identify, quantify and optimize all kinds of revenue generating activities." >
     <meta property="og:image" content="http://greenanalysts.com/images/svg/bigdata.svg" >
+    <meta property="fb:app_id" content="705802480" >
     <meta property="og:type" content="website" >
     <meta property="og:locale" content="en-US" >
     <!--TWITTER-->

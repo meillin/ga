@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Green Analysts - Visualizing the future</title>
     <link rel="stylesheet" href="stylesheets/app.css" />
+    <link rel="shortcut icon" href="images/favicon.ico" />
     <script src="bower_components/modernizr/modernizr.js"></script>
   </head>
   <body>
