@@ -49,13 +49,12 @@
                   <li><a href="big-data.php">Big data</a></li>
                   <li><a href="pricing-strategies.php">Pricing</a></li>
                   <li><a href="marketing-effectiveness.php">Marketing</a></li>
+                  <li><a href="crm.php">CRM</a></li>
                 </ul>
               </li>
               <li><a href="customer.php">WHO WE HELP</a></li>
               <li><a href="contact.php">CONTACT</a></li>
               <li><a href="">BLOG</a></li>
-
-
             </ul>
 
           </section>
