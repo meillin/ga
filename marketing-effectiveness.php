@@ -64,7 +64,7 @@
                 </p>
             </div>
         </div>
-        <img src="images/svg/bigdata.svg" width="300">
+        <img src="images/svg/roi.svg" width="500">
         </main>
       </section>
 
