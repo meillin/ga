@@ -38,15 +38,31 @@
       <section class="main-container text-center clearfix">
 
         <main>
-        <h1>Data driven and predictive customer relationship management</h1>
-        <div class="row">
-            <div class="large-12 columns">
-                <p class="text-left">
-                There are many technologies, software solutions and processes that deals with customer interaction. This interaction is important for past, current and future customers alike. Depending on where in the life-cycle a given customer is located they are triggered by different messages. Figuring out which kind of message should go to which customer can be discovered and quantified through predictive analytics.
-                </p>
+            <div class="row">
+                <div class="large-12 columns">
+                    <h1>Data driven and predictive customer relationship management</h1>
+                    <p class="text-left">
+                        There are many technologies, software solutions and processes that deals with customer interaction.
+                        This interaction is important for past, current and future customers alike.
+                        Depending on where in the life-cycle a given customer is located they are triggered by different messages.
+                        Figuring out which kind of message should go to which customer can be discovered and quantified through predictive analytics.
+                    </p>
+                    <h2>Questions you should be asking yourself</h2>
+                    <p class="text-left">
+                        A data driven approach to CRM requires you to formalize your challenges as questions.
+                        Once you know which questions that are relevant for your business you can start collecting, 
+                        aggregating and consolidating the data necessary for the development of a predictive model capable of 
+                        answering these questions in real time.
+                    </p>
+                    <ul class="text-left">
+                        <li>How many emails can you send per week without increasing unsubscribers?</li>
+                        <li>How are your email campaigns affecting your social media performance?</li>
+                        <li>What content drives higher open rates?</li>
+                        <li>Which of your customers are thinking about leaving? How can you make them stay?</li>
+                    </ul>
+                </div>
             </div>
-        </div>
-        <img src="images/svg/bigdata.svg" width="300">
+            <img src="images/svg/bigdata.svg" width="300">
         </main>
       </section>
 
