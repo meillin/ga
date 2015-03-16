@@ -35,18 +35,35 @@
   <body>
 
     <?php include 'pages/header.php';?>
-      <section class="main-container text-center clearfix">
+      <section class="main-container clearfix">
 
         <main>
-        <h1>Big data consulting</h1>
-        <div class="row">
-            <div class="large-12 columns">
-                <p class="text-left">
-                If your business is approaching or have already started dealing with big data we can help guide you through this jungle. Big data is not only a new buzz word but a reality that we all have to deal with sooner or later. Data are piling up every day and a lot of it is too valuable to throw away. Thus your business will have to find ways to visualize and extract useful insights and facts from huge amounts of data that are intractable to load for a computer. Even a fast one. We have developed a new big data frame work that allows us to capture your business’ specific needs and knowledge flow. In effect, we can in real-time display learnings from your big data setup.
-                </p>
+            <h1>Big data consulting</h1>
+
+            <hr />
+
+            <div class="row">
+                <div class="large-12 columns">
+                    <blockquote>
+                    Without big data, you are blind and deaf in the middle of a freeway.
+                    <cite>Geoffrey Moore, management consultant and theorist</cite>
+                    </blockquote>
+                </div>
             </div>
-        </div>
-        <img src="images/svg/bigdata.svg" width="300">
+
+            <hr />
+
+
+            <div class="row">
+                <div class="medium-7 columns">
+                    If your business is approaching or have already started dealing with big data we can help guide you through this jungle. Big data is not only a new buzz word but a reality that we all have to deal with sooner or later. Data are piling up every day and a lot of it is too valuable to throw away. Thus your business will have to find ways to visualize and extract useful insights and facts from huge amounts of data that are intractable to load for a computer. Even a fast one. We have developed a new big data frame work that allows us to capture your business’ specific needs and knowledge flow. In effect, we can in real-time display learnings from your big data setup.
+                </div>
+                <div class="medium-5 columns">
+                    <img src="images/svg/bigdata.svg" width="300">
+                </div>
+            </div>
+
+
         </main>
       </section>
 

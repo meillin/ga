@@ -297,7 +297,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
       ul {
         padding: 0;
         width: 100%;
-        height: auto;
+        height: 100%;
         display: block;
         font-size: $rem-base;
         margin: 0;
@@ -316,6 +316,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
         & > a {
           display: block;
           width: 100%;
+          height: rem-calc(45);
           color: $topbar-link-color;
           padding: 12px 0 12px 0;
           padding-#{$default-float}: $topbar-link-padding;

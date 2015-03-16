@@ -22,7 +22,7 @@
             <li><a href="about.php">WHO WE ARE</a></li>
             <li><a href="work.php">WHAT WE DO</a></li>
             <li><a href="customer.php">WHO WE HELP</a></li>
-            <li><a href="contact.php">CONTACT</a></li>
+            <li><a href="contact.php">START HERE</a></li>
             <li><a href="">BLOG</a></li>
           </ul>
       </aside>
@@ -53,7 +53,7 @@
                 </ul>
               </li>
               <li><a href="customer.php">WHO WE HELP</a></li>
-              <li><a href="contact.php">CONTACT</a></li>
+              <li><a href="contact.php">START HERE</a></li>
               <li><a href="">BLOG</a></li>
             </ul>
 

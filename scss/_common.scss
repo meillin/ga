@@ -8,12 +8,31 @@ body {
 	color: $body-text;
 }
 
+body * {
+	@include transition( all 0.2s );
+}
+
 h1, h2, h3, h4, h5 {
 	font-family: $font-family-roboto-light;
 }
 
 a {
 	color: $green;
+}
+
+ul {
+	list-style: none;
+}
+
+main li:before {
+	content: "\25C9";
+        position: absolute;
+
+  display: inline-block;
+  left: 10px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
 }
 
 /*
@@ -51,6 +70,10 @@ section {
 	h1 {
 		position: relative;
 		font-size: $h1-font-size;
+	}
+
+	h1, h2, h3, h4, h5 {
+		text-align: center;
 	}
 }
 

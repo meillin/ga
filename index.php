@@ -21,14 +21,23 @@
       </video>
     </div>
 
-    <div>
-      <h1>Your Business is Our Business</h1>
+    <div class="v-center">
+      <h1>WE HELP YOU TO MAKE MORE MONEY</h1>
+      <p>By analyzing your data</p>
+
       <a href="#" class="button radius line-button">SEE OUR WORK</a>
     </div>
 
   </section>
 
-  <section class="text-center services">
+  <section class="text-center services pushdown">
+
+    <div class="row hide-for-medium-up">
+      <div class="large-12 columns">
+          <h1>WE HELP YOU TO MAKE MORE MONEY</h1>
+      </div>
+      <hr />
+    </div>
 
     <div class="large-4 medium-6 columns">
       <a href="big-data.php">
