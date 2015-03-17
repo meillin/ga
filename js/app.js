@@ -15,4 +15,9 @@ $(document)
 })
 .on('close.fndtn.offcanvas', '[data-offcanvas]', function() {
   $('.burger').removeClass('burger-animate');
-})
+});
+
+
+$('.grid figure').click(function (event) {
+	$(this).find('article').slideDown('slow');
+});

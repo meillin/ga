@@ -69,7 +69,7 @@
 											<li>Is the new creative platform working?</li>
 									</ul>
 							</article>
-
+							<hr />
 							<article>
 								<div class="row">
 

@@ -56,8 +56,6 @@
             <div class="large-12 columns">
 
               <article>
-
-
                 <div class="row">
                   <div class="medium-7 columns">
                       Setting the right price for your products should be determined by what consumers are willing to pay for it. Consequently, a simple price = cost + markup is most likely sub-optimal and should be revised. Continuously and consistently measuring and quantifying the effect of price changes on your sales provides an unbiased and objective estimate of your price elasticity. Price elasticity changes over time depending on, among other factors, seasonality, distribution, competitor activities, weather and brand strength. Therefor, the right price is also changing over time which means your business should try to capture this market dynamics to optimize profit.
@@ -68,13 +66,15 @@
                 </div>
               </article>
 
+            <hr />
+
               <article>
                 <h2>A simple example</h2>
                 <p>
                   Suppose you just have one product and no competitors and would like to figure out what the optimal price of your product/service is. In this case a simple mathematical relation \(\ln y = \beta \ln p + a \) where y is your sales volume, p is your price and a is your brand equity, is sufficient. In this setting there is a closed form solution to your challenge. The optimal price is simply $$p=\frac{\beta}{\beta+1}\cdot\frac{c-\lambda}{m}.$$ Now most businesses have many more important factors than this, but it neatly illustrates how statistics can help you find the optimal price in a competitive market.
                 </p>
               </article>
-
+              <hr />
               <article>
                 <h2>Price optimization</h2>
 
@@ -89,7 +89,7 @@
                 <p>
                 Price elasticity changes over time depending on, among other factors, seasonality, distribution, competitor activities, weather and brand strength. Therefor, the right price is also changing over time which means your business should try to capture this market dynamics to optimize profit. Also, depending on what you need to optimize the price should be adapted to fit that strategy. Typically your business would like to optimize one of the following:
                 </p>
-                <ul><li>Sales volume</li><li>Revenue</li><li>Profit</li></ul>
+                <ul class="lined-list"><li>Sales volume</li><li>Revenue</li><li>Profit</li></ul>
                 <p>
                 Given the same production cost the optimal price will differ between these criteria.
                 </p>
@@ -100,7 +100,7 @@
                 <p>
                 The road towards a deeper understanding of your consumers purchasing behavior in relation to your products starts with knowing which questions to ask. Have you ever thought about:
                 </p>
-                <ul>
+                <ul class="lined-list">
                   <li>How much is your demand affected by competitive prices?</li>
                   <li>Which of your products have a strong reaction to changes in price?</li>
                   <li>If your strategy is to keep your price below competition, then how much below?</li>

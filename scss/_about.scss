@@ -8,9 +8,8 @@
 	}
 
 	& > div {
-		@media #{$small-only} {
-				margin-bottom: rem-calc(20);
-		}
+		padding: 20px 0;
+		border-top: 1px dotted black;
 	}
 
 }
