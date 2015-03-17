@@ -16,8 +16,8 @@
 
     <div>
       <video autoplay loop poster="images/city-large.jpg" id="bgvid" class="show-for-medium-up">
-        <source src="video/math.webm" type="video/webm">
-        <source src="video/math2.mp4" type="video/mp4">
+        <source src="video/outputfile.webm" type="video/webm">
+        <source src="video/outputfile.mp4" type="video/mp4">
       </video>
     </div>
 
