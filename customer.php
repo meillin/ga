@@ -14,12 +14,11 @@
       <section class="main-container clearfix">
 
         <main>
-
+          <h1>We love our clients</h1>
+          <h2>and help them love their data too</h2>
+          <hr />
           <div class="enter-text row">
-            <div class="large-12">
-              <h1>We love our clients</h1>
-              <h2>and help them love their data too</h2>
-            </div>
+
             <div class="large-12 columns">
               <p>
                 We help our clients generate actionable insights from data. This requires a solid knowledge of existing data structures and machine learning algorithms. If you got all your ducks in a row regarding your data setup then it's great; we'll work with that. If not, then we're more than happy to assist you with organizing and structuring your data.

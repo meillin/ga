@@ -15,13 +15,13 @@
       <section class="main-container clearfix">
 
         <main class="page-about">
+           <h1>Who we are</h1>
+            <h2>We love artificial intelligence and machine learning</h2>
+            <h2 class="subheader">applied to business challenges</h2>
+            <hr />
 
-          <div class="enter-text">
-            <div class="large-10 large-centered columns">
-              <h1>Who we are</h1>
-              <h2>We love artificial intelligence and machine learning</h2>
-              <h2 class="subheader">applied to business challenges</h2>
-              <hr />
+          <div class="row">
+            <div class="large-12 columns">
               <p>
                 Green Analysts is a machine learning consulting company specializing in building, customizing and integrating predictive analytics solutions in our clients' decision making process. In short, we help companies identify, quantify and optimize all kinds of revenue generating activities.
               </p>
