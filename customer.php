@@ -26,6 +26,7 @@
             </div>
           </div>
 
+<!--
             <div class="grid row">
 
               <figure class="effect-bubba medium-6 columns">
@@ -53,7 +54,7 @@
               </figure>
 
             </div>
-
+-->
 
 
         </main>

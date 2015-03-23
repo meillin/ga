@@ -101,11 +101,11 @@
       </p>
     </div>
 
-    <div class="large-12"><a href="#">Learn more about what we do &#8594;</a></div>
+    <div class="large-12 pushup"><a href="#">Learn more about what we do &#8594;</a></div>
   </section>
 
-  <hr>
-
+<!--
+<hr/>
   <section class="row pushdown customers text-center">
     <div class="large-12 columns">
       <ul class="small-block-grid-3">
@@ -115,7 +115,7 @@
       </ul>
     </div>
   </section>
-
+-->
   <?php include 'pages/footer.php';?>
 
   </body>
