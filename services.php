@@ -15,25 +15,24 @@
       <section class="main-container text-center clearfix">
 
         <main>
-          <h1>We do these</h1>
+          <h1>We do this</h1>
           <hr />
 
-          <div class="circle-container full-width">
-                <div class="medium-4 columns">
+          <div class="circle-container row">
+                <div class="large-4 medium-6 columns">
                   <div class="circle">
                       <div class="content">
                           <div class="table">
                               <div class="table-cell">
-                                  1.<br>
-                                  Buy cylinder
-                                  online
+                                  <img src="images/svg/fi-database.svg" />
+                                  <h2>BIG DATA</h2>
                               </div>
                           </div>
                       </div>
                   </div>
                 </div>
 
-                <div class="medium-4 columns">
+                <div class="large-4 medium-6 columns">
                   <div class="circle">
                       <div class="content">
                           <div class="table">
@@ -47,7 +46,49 @@
                   </div>
                 </div>
 
-                <div class="medium-4 columns">
+                <div class="large-4 medium-6 columns">
+                  <div class="circle">
+                      <div class="content">
+                          <div class="table">
+                              <div class="table-cell">
+                                3. <br>
+                                Order refills online
+                                and pick up at your dealer
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+
+                               <div class="large-4 medium-6 columns">
+                  <div class="circle">
+                      <div class="content">
+                          <div class="table">
+                              <div class="table-cell">
+                                  1.<br>
+                                  Buy cylinder
+                                  online
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+
+                <div class="large-4 medium-6 columns">
+                  <div class="circle">
+                      <div class="content">
+                          <div class="table">
+                              <div class="table-cell">
+                                2. <br>
+                                Get cylinder
+                                delivered for free
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+
+                <div class="large-4 medium-6 columns">
                   <div class="circle">
                       <div class="content">
                           <div class="table">

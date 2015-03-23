@@ -20,7 +20,7 @@
       <aside class="left-off-canvas-menu">
           <ul class="off-canvas-list">
             <li><a href="about.php">WHO WE ARE</a></li>
-            <li><a href="work.php">WHAT WE DO</a></li>
+            <li><a href="services.php">WHAT WE DO</a></li>
             <li><a href="customer.php">WHO WE HELP</a></li>
             <li><a href="contact.php">START HERE</a></li>
             <li><a href="">BLOG</a></li>
@@ -44,7 +44,7 @@
             <!-- Right Nav Section -->
             <ul class="right">
               <li><a href="about.php">WHO WE ARE</a></li>
-              <li class="has-dropdown"><a href="about.php">WHAT WE DO</a>
+              <li class="has-dropdown"><a href="services.php">WHAT WE DO</a>
                 <ul class="dropdown">
                   <li><a href="big-data.php">Big data</a></li>
                   <li><a href="pricing-strategies.php">Pricing</a></li>
