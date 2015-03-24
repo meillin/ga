@@ -11,14 +11,15 @@
   </head>
   <body>
 
-    <?php include 'pages/header.php';?>
+      <?php include 'pages/header.php';?>
+
       <section class="main-container clearfix">
 
         <main class="page-about">
-           <h1>Who we are</h1>
-            <h2>We love artificial intelligence and machine learning</h2>
-            <h2 class="subheader">applied to business challenges</h2>
-            <hr />
+          <h1>Who we are</h1>
+          <h2>We love artificial intelligence and machine learning</h2>
+          <h2 class="subheader">applied to business challenges</h2>
+          <hr />
 
           <div class="row">
             <div class="large-12 columns">
@@ -69,8 +70,6 @@
             </div>
 
           </div>
-
-        </div>
 
         </main>
       </section>

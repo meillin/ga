@@ -19,6 +19,7 @@
 
       <aside class="left-off-canvas-menu">
           <ul class="off-canvas-list">
+            <li><a href="/">HOME</a></li>
             <li><a href="about.php">WHO WE ARE</a></li>
             <li><a href="services.php">WHAT WE DO</a></li>
             <li><a href="customer.php">WHO WE HELP</a></li>

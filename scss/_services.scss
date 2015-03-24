@@ -7,9 +7,22 @@ Circles
 	> div {
 		padding: 0;
 	}
+	img {
+		background: $white-cream;
+		border-radius: 50%;
+		padding: 20px;
+	}
 	h2 {
 		position: relative;
-		margin-top: -30px;
+		margin-top: 4px;
+		font-size: 12px;
+		text-transform: uppercase;
+		@media #{$medium} {
+			font-size: 22px;
+		}
+		@media #{$large} {
+			font-size: 24px;
+		}
 	}
 }
 
@@ -17,8 +30,13 @@ Circles
 	width: 98%;
 	padding-bottom: 98%;
 	margin: 1%;
-	background: $green;
-	@include radius(50%);
+	background: $white;
+	@media #{$medium} {
+		&:hover {
+			@include radius(50%);
+		}
+	}
+
 }
 
 .content {
@@ -34,7 +52,10 @@ Circles
 }
 .table-cell{
 	position: relative;
-	top: -25px;
+	top: -18px;
 	display:table-cell;
 	vertical-align:middle;
+	@media #{$medium} {
+		top: -25px;
+	}
 }

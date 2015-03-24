@@ -63,7 +63,7 @@
 									This is the first step towards true fact based marketing.
 									</p>
 									<p>This type of analysis allows your business to answer questions like:</p>
-									<ul>
+									<ul class="lined-list">
 											<li>What is your overall return on marketing investment?</li>
 											<li>Are the money you are putting into direct marketing cost-effective?</li>
 											<li>Is the new creative platform working?</li>
