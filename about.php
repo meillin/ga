@@ -39,7 +39,7 @@
 						<div class="large-6 columns">
 							<div class="small-4 columns michael-green"><img src="images/michael-green.jpg"></div>
 							<div class="small-8 columns">
-								<h3><span>&#9996;</span>Dr. Michael Green - Founder</h3>
+								<h3>Dr. Michael Green - Founder</h3>
 								Michael is our commercial guy and has worked with clients across multiple sectors. With a background in Theoretical Physics Michael combines business knowledge with state of the art predictive analytics. He comes from a position as CTO at Data Intelligence.
 							</div>
 						</div>
@@ -47,7 +47,7 @@
 						<div class="large-6 columns">
 							<div class="small-4 columns"><img src="images/li-wen.jpg"></div>
 							<div class="small-8 columns">
-								<h3><span>&#9829;</span>Dr. Liwen You - Scientific advisor and co-founder</h3>
+								<h3>Dr. Liwen You - Scientific advisor and co-founder</h3>
 								Liwen is a leading expert on econometric modeling in Sweden. She has many years of hands-on experience with implementing predictive models within several industries including telecom, life-science and traveling.
 								Liwen also holds a PhD in Machine Learning.
 							</div>
@@ -56,7 +56,7 @@
 						<div class="large-6 columns">
 							<div class="small-4 columns"><img src="images/meilan-lin.jpg"></div>
 							<div class="small-8 columns">
-								<h3><span>&#9874;</span>Meilan Lin - Web Developer</h3>
+								<h3>Meilan Lin - Web Developer</h3>
 								Meilan is the guru coding up the stuff connecting our intelligent solutions to our clients via web services and cloud based applications.
 							</div>
 						</div>
@@ -64,7 +64,7 @@
 						<div class="large-6 columns">
 							<div class="small-4 columns"><img src="images/par-gustafsson.jpg"></div>
 							<div class="small-8 columns">
-								<h3><span class="u1f400">&#9997;</span>Pär Gustavsson - CFO</h3>
+								<h3>Pär Gustavsson - CFO</h3>
 								Pär is the man who's cooking the books. He has a long experience in running the financials of small to medium sized companies leveraging expert knowledge with an amazing sense of humor.
 							</div>
 						</div>
