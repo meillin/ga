@@ -2,5 +2,11 @@
 <!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 480 480" enable-background="new 0 0 480 480" xml:space="preserve">
-<text transform="matrix(1 0 0 1 100.0197 328.7168)" fill="#33485D" font-family="'FontAwesome'" font-size="244.9659"></text>
+<g enable-background="new    ">
+	<path fill="#33485D" d="M231.3,118.7l131.2,52.5v17.5H345c0,2.4-0.9,4.4-2.8,6.2c-1.9,1.7-4.1,2.6-6.6,2.6H126.9
+		c-2.6,0-4.8-0.9-6.6-2.6c-1.9-1.7-2.8-3.8-2.8-6.2H100v-17.5L231.3,118.7z M353.1,337.5c2.5,0,4.8,0.9,6.6,2.6
+		c1.9,1.7,2.8,3.8,2.8,6.2v17.5H100v-17.5c0-2.4,0.9-4.4,2.8-6.2c1.9-1.7,4.1-2.6,6.6-2.6H353.1z M135,206.2h35v105h17.5v-105h35
+		v105H240v-105h35v105h17.5v-105h35v105h8.1c2.5,0,4.8,0.9,6.6,2.6c1.9,1.7,2.8,3.8,2.8,6.2v8.7H117.5V320c0-2.4,0.9-4.4,2.8-6.2
+		c1.9-1.7,4.1-2.6,6.6-2.6h8.1V206.2z"/>
+</g>
 </svg>
