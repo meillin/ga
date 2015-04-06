@@ -40,13 +40,123 @@
           <h1>We love our clients</h1>
           <h2>and help them love their data too</h2>
           <hr />
-          <div class="enter-text row">
+          <div class="row">
 
             <div class="large-12 columns">
               <p>
                 We help our clients generate actionable insights from data. This requires a solid knowledge of existing data structures and machine learning algorithms. If you got all your ducks in a row regarding your data setup then it's great; we'll work with that. If not, then we're more than happy to assist you with organizing and structuring your data.
               </p>
             </div>
+          </div>
+
+          <div class="circle-container target-group row">
+                <div class="large-3 small-6 columns">
+                  <div class="circle">
+                    <a href="">
+                        <div class="content">
+                            <div class="table">
+                                <div class="table-cell">
+                                    <img src="images/svg/mobile.svg" />
+                                    <h2>TELECOM</h2>
+                                </div>
+                            </div>
+                        </div>
+                      </a>
+                  </div>
+                </div>
+
+                <div class="large-3 small-6 columns">
+                  <div class="circle">
+                    <a href="#">
+                      <div class="content">
+                          <div class="table">
+                              <div class="table-cell">
+                                <img src="images/svg/monitor.svg" />
+                                <h2>Media</h2>
+                              </div>
+                          </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+
+                <div class="large-3 small-6 columns">
+                  <div class="circle">
+                    <a href="#">
+                      <div class="content">
+                          <div class="table">
+                              <div class="table-cell">
+                                <img src="images/svg/bank.svg" />
+                                <h2>Banking</h2>
+                              </div>
+                          </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+
+                <div class="large-3 small-6 columns">
+                  <div class="circle">
+                    <a href="#">
+                      <div class="content">
+                          <div class="table">
+                              <div class="table-cell">
+                                <img src="images/svg/airplane.svg" />
+                                <h2>Travel</h2>
+                              </div>
+                          </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+
+                <div class="large-3 small-6 columns">
+                  <div class="circle">
+                    <a href="#">
+                        <div class="content">
+                            <div class="table">
+                                <div class="table-cell">
+                                  <img src="images/svg/med.svg" />
+                                  <h2>Healthcare</h2>
+                                </div>
+                            </div>
+                        </div>
+                      </a>
+                  </div>
+                </div>
+
+                <div class="large-3 small-6 columns">
+                  <div class="circle">
+                  <a href="#">
+                      <div class="content">
+                          <div class="table">
+                            <div class="table-cell">
+                              <img src="images/svg/fi-shopping-cart.svg" />
+                              <h2>Consumer</h2>
+                            </div>
+                          </div>
+                      </div>
+                      </a>
+                  </div>
+                </div>
+
+                <div class="large-3 small-6 columns">
+                  <div class="circle">
+                    <a href="#">
+                      <div class="content">
+                          <div class="table">
+                            <div class="table-cell">
+                              <img src="images/svg/cog.svg" />
+                              <h2>Automotive</h2>
+                            </div>
+                          </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+
+                <div class="large-3 small-6 columns">
+                </div>
           </div>
 
 <!--

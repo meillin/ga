@@ -15,7 +15,7 @@
 			<section class="main-container clearfix">
 
 				<main>
-					<h1>WE DO THIS</h1>
+					<h1>We do this</h1>
 
 					<div class="circle-container row">
 								<div class="large-4 small-6 columns">
@@ -103,7 +103,7 @@
 											</div>
 									</div>
 								</div>
-							</div>
+					</div>
 				</main>
 			</section>
 

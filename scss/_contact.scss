@@ -1,0 +1,10 @@
+.target-group {
+	h2 {
+		@media #{$medium} {
+			font-size: 18px;
+		}
+		@media #{$large} {
+			font-size: 20px;
+		}
+	}
+}
