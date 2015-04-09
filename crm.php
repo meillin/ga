@@ -37,15 +37,14 @@
     <?php include 'pages/header.php';?>
       <section class="main-container clearfix">
 
-        <main>
+        <main class="clearfix">
 
-            <h1>Data driven and predictive customer relationship management</h1>
-
+            <h1 class="large-12 columns">Data driven and predictive customer relationship management</h1>
             <hr />
             <div class="row">
                 <div class="large-12 columns">
                     <blockquote>
-                    …. dissatisfied customers would tell between 7-10 people while a satisfied customer would recommend a company to 3-4 of their friends.
+                        Dissatisfied customers would tell between 7-10 people while a satisfied customer would recommend a company to 3-4 of their friends.
                     <cite>PIMS</cite>
                     </blockquote>
                 </div>

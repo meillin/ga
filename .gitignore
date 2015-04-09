@@ -1,3 +1,10 @@
 /.sass-cache/*
 *.DS_Store
 /stylesheets/*
+bower_components/jquery-placeholder/.gitattributes
+bower_components/jquery-placeholder/.gitignore
+bower_components/jquery-placeholder/LICENSE-MIT.txt
+bower_components/jquery-placeholder/README.md
+bower_components/jquery-placeholder/demo.html
+bower_components/jquery-placeholder/tests/index.html
+bower_components/jquery-placeholder/tests/tests.js

@@ -5,7 +5,7 @@
 body {
 	background-color: $body-bg;
 	font-family: $font-family-roboto-light;
-	font-size: rem-calc(18);
+	font-size: rem-calc(16);
 	color: $body-text;
 }
 
@@ -14,7 +14,12 @@ body * {
 }
 
 p {
-	font-size: rem-calc(18);
+	line-height: 1.4;
+	@media #{$medium} {
+		line-height: 1.6;
+		font-size: rem-calc(18);
+	}
+
 }
 
 h1, h2, h3, h4, h5 {
@@ -55,12 +60,20 @@ section {
  */
 .main-container {
 	width: 100%;
-	//background: url(../images/city-overlay.jpg);
-	//background-size: cover;
 
 	h1 {
-		position: relative;
-		font-size: $h1-font-size;
+		font-size: $h4-font-size;
+		margin-top: 20px;
+		@media #{$small} {
+			font-size: $h1-font-size;
+		}
+	}
+
+	h2 {
+		font-size: $h5-font-size;
+		@media #{$small} {
+			font-size: $h2-font-size;
+		}
 	}
 
 	h1, h2, h3, h4, h5 {

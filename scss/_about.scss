@@ -1,4 +1,6 @@
 .company-members {
+	font-size: rem-calc(14);
+
 	img {
 		border-radius: 50%;
 	}
@@ -8,13 +10,20 @@
 	}
 
 	& > div {
-		padding: 20px 0;
-		border-top: 1px dotted black;
+		padding: 10px 10px 10px 0;
+		@media #{$medium} {
+			padding: 20px 0;
+		}
+		border-top: 1px dotted $gainsboro;
 	}
 
 	h3 {
 		color: $washed-blue;
 		text-align: left;
+		font-size: rem-calc(16);
+		@media #{$medium} {
+			font-size: rem-calc(20);
+		}
 		span {
 			font-size: rem-calc(45);
 			padding-right: rem-calc(10);
