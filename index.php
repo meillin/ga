@@ -22,10 +22,10 @@
     </div>
 
     <div class="v-center">
-      <h1>WE HELP YOU TO MAKE MORE MONEY</h1>
+      <h1>WE HELP YOU OPTIMIZE YOUR SALES</h1>
       <p>By analyzing your data</p>
 
-      <a href="#" class="button radius line-button">SEE OUR WORK</a>
+      <a href="services.php" class="button radius line-button">SEE OUR WORK</a>
     </div>
 
   </section>

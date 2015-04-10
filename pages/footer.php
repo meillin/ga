@@ -14,10 +14,10 @@
         <article class="small-2 columns">
           <h5>Pages</h5>
           <ul class="no-bullet">
-            <li><a href="">About</a></li>
-            <li><a href="">Work</a></li>
+            <li><a href="about.php">About</a></li>
+            <li><a href="services.php">Work</a></li>
             <li><a href="">Blog</a></li>
-            <li><a href="">Contact</a></li>
+            <li><a href="contact.php">Contact</a></li>
           </ul>
         </article>
 
