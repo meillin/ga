@@ -31,6 +31,7 @@ Circles
 	padding-bottom: 98%;
 	margin: 1%;
 	background: $white;
+	cursor: pointer;
 	@media #{$medium} {
 		&:hover {
 			@include radius(50%);

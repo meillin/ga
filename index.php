@@ -101,7 +101,7 @@
       </p>
     </div>
 
-    <div class="large-12 pushup"><a href="#">Learn more about what we do &#8594;</a></div>
+    <div class="large-12 pushup"><a href="services.php">Learn more about what we do &#8594;</a></div>
   </section>
 
 <!--

@@ -1,0 +1,40 @@
+.target-group {
+
+	article {
+		display: none;
+	}
+	.clicked {
+
+		.table:after {
+			content: '\2715';
+			position: relative;
+			font-size: rem-calc(16);
+			color: $washed-blue;
+			top: rem-calc(-10);
+		}
+
+		&:hover {
+			border-radius: 0;
+		}
+
+		.content {
+			padding: rem-calc(10);
+		}
+
+		img {
+			top: -200px;
+			opacity: 0;
+			visibility:hidden;
+			position: absolute;
+		}
+
+		h2 {
+			display: none;
+		}
+
+		article {
+			display: block;
+		}
+
+	}
+}

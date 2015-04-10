@@ -18,6 +18,11 @@ $(document)
 });
 
 
-$('.grid figure').click(function (event) {
+$('.grid figure').click(function (e) {
 	$(this).find('article').slideDown('slow');
+});
+
+$('.target-group .circle').click(function(e){
+	e.preventDefault();
+	$(this).toggleClass('clicked');
 });
