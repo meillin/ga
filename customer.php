@@ -56,7 +56,14 @@
                               <div class="table-cell">
                                   <img src="images/svg/mobile.svg" />
                                   <h2>TELECOM</h2>
-                                  <article>Are you working in telecom/mobile field?</article>
+                                  <article>Are you working in telecom / mobile field? We help
+                                  you get the most gross adds from your campaigns.
+                                  <ul>
+                                  <li>Acquisition modeling</li>
+                                  <li>Churn modeling</li>
+                                  <li>ROI analysis</li>
+                                  </ul>
+                                  </article>
                               </div>
                           </div>
                       </div>
@@ -71,7 +78,13 @@
                                 <img src="images/svg/monitor.svg" />
                                 <h2>Media</h2>
                                 <article>
-                                Are you working in media/advertising? We help Marketing / Media / Advertising bla bla bla
+                                Are you working in media and advertizing? We provide professionals like you the following:
+                                <ul>
+                                  <li>Media mix optimization</li>
+                                  <li>Conjoint analyses</li>
+                                  <li>Creative evaluations</li>
+                                  <li>Sales modeling</li>
+                                </ul>
                                 </article>
                               </div>
                           </div>
@@ -86,7 +99,7 @@
                               <div class="table-cell">
                                 <img src="images/svg/bank.svg" />
                                 <h2>Banking</h2>
-                                     <article>
+                                <article>
                                 We help Banking / Insurance  bla bla bla
                                 </article>
                               </div>
