@@ -78,7 +78,7 @@
                                 <img src="images/svg/monitor.svg" />
                                 <h2>Media</h2>
                                 <article>
-                                Are you working in media and advertizing? We provide professionals like you the following:
+                                We provide media and advertizing professionals like you the following:
                                 <ul>
                                   <li>Media mix optimization</li>
                                   <li>Conjoint analyses</li>
@@ -100,7 +100,13 @@
                                 <img src="images/svg/bank.svg" />
                                 <h2>Banking</h2>
                                 <article>
-                                We help Banking / Insurance  bla bla bla
+                                We help the Banking and Insurance industry get new leads and reduce churn.
+                                <ul>
+                                  <li>Lead generation</li>
+                                  <li>Churn minimization</li>
+                                  <li>Call center performance</li>
+                                  <li>Sales modeling</li>
+                                </ul>
                                 </article>
                               </div>
                           </div>
@@ -115,8 +121,14 @@
                               <div class="table-cell">
                                 <img src="images/svg/airplane.svg" />
                                 <h2>Travel</h2>
-                                     <article>
-                                We help Travel / Transport  bla bla bla
+                                <article>
+                                <ul>
+                                  <li>PAX modeling</li>
+                                  <li>Path to conversion</li>
+                                  <li>Campaign planning</li>
+                                  <li>Pricing strategies</li>
+                                  <li>E-mail message optimization</li>
+                                </ul>
                                 </article>
                               </div>
                           </div>
@@ -126,49 +138,62 @@
 
                 <div class="large-3 small-6 columns">
                   <div class="circle">
-                        <div class="content">
-                            <div class="table">
-                                <div class="table-cell">
-                                  <img src="images/svg/med.svg" />
-                                  <h2>Healthcare</h2>
-                                       <article>
-                               We help Healthcare / Life science  bla bla bla bla bla bla
-                                </article>
-                                </div>
-                            </div>
+                    <div class="content">
+                      <div class="table">
+                        <div class="table-cell">
+                          <img src="images/svg/med.svg" />
+                          <h2>Healthcare</h2>
+                          <article>
+                            <ul>
+                              <li>Lead scoring</li>
+                              <li>Pricing strategies</li>
+                              <li>Big data</li>
+                              <li>Statistical services</li>
+                            </ul>
+                          </article>
                         </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
 
                 <div class="large-3 small-6 columns">
                   <div class="circle">
-                      <div class="content">
-                          <div class="table">
-                            <div class="table-cell">
-                              <img src="images/svg/fi-shopping-cart.svg" />
-                              <h2>Consumer</h2>
-                                   <article>
-                                We help (Fast moving) Consumer goods / Retail / Distribution bla bla bla bla
-                                </article>
-                            </div>
-                          </div>
+                    <div class="content">
+                      <div class="table">
+                        <div class="table-cell">
+                          <img src="images/svg/fi-shopping-cart.svg" />
+                          <h2>Consumer</h2>
+                          <article>
+                            (Fast moving) consumer goods is a highly dynamic market. We help you keep up with the pace.
+                            <ul>
+                              <li>Price optimization</li>
+                              <li>Leaflet / display efficiency</li>
+                            </ul>
+                          </article>
+                        </div>
                       </div>
+                    </div>
                   </div>
                 </div>
 
                 <div class="large-3 small-6 columns">
                   <div class="circle">
-                      <div class="content">
-                          <div class="table">
-                            <div class="table-cell">
-                              <img src="images/svg/cog.svg" />
-                              <h2>Automotive</h2>
-                                   <article>
-                                We help Automotive / Manufacturing  bla bla bla bla bla bla bla bla bla bla
-                                </article>
-                            </div>
-                          </div>
+                    <div class="content">
+                      <div class="table">
+                        <div class="table-cell">
+                          <img src="images/svg/cog.svg" />
+                          <h2>Automotive</h2>
+                          <article>
+                          <ul>
+                            <li>Predictive maintenance</li>
+                            <li>Cost minimization</li>
+                            <li>Automated failure detection</li>
+                          </ul>
+                          </article>
+                        </div>
                       </div>
+                    </div>
                   </div>
                 </div>
 
