@@ -77,8 +77,8 @@
                         </ul>
 
                     </div>
-                        <div class="medium-4 columns">
-                            <img src="images/svg/bigdata.svg" width="300">
+                        <div class="medium-4 columns text-center">
+                            <img src="images/crm.svg" width="300">
                         </div>
                     </div>
                 </div>
