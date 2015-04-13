@@ -2,15 +2,37 @@
 
 	article {
 		display: none;
+		@media #{$medium} {
+			padding: 10px;
+		}
+		@media #{$large} {
+			padding: 0;
+		}
+		p, ul {
+			font-size: rem-calc(12);
+			line-height: rem-calc(12);
+			@media #{$medium} {
+				font-size: rem-calc(16);
+				line-height: rem-calc(25);
+			}
+		}
+	}
+
+	ul {
+		font-weight: bold;
 	}
 	.clicked {
 
 		.table:after {
 			content: '\2715';
 			position: relative;
-			font-size: rem-calc(16);
-			color: $washed-blue;
+			font-size: rem-calc(15);
+			color: $iron;
 			top: rem-calc(-10);
+			@media #{$medium-only} {
+				top: -15px;
+				right: 10px;
+			}
 		}
 
 		&:hover {

@@ -53,10 +53,7 @@ Circles
 }
 .table-cell{
 	position: relative;
-	top: -18px;
 	display:table-cell;
-	vertical-align:middle;
-	@media #{$medium} {
-		top: -25px;
-	}
+  top: 50%;
+  transform: translateY(-50%);
 }

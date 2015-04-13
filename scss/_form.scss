@@ -21,7 +21,9 @@ form {
 	}
 
 	img {
-		width: rem-calc(30);
+		width: 16px;
+		height: 16px;
+		margin-top: 50%;
 	}
 
 	input[type="submit"] {
@@ -35,8 +37,7 @@ form {
 	}
 }
 
-.label-require,
-.label-icon img {
+.label-require {
 	margin-top: rem-calc(3);
 }
 

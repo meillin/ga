@@ -102,7 +102,7 @@
               <fieldset>
                 <legend>Your project (optional)</legend>
 
-                  <div class="small-6 columns">
+                  <div class="medium-6 columns">
                     <label for="stage" class="label-icon left">Budget stage</label>
                     <select>
                       <option>Choose your budget stage</option>
@@ -111,7 +111,7 @@
                     </select>
                   </div>
 
-                  <div class="small-6 columns">
+                  <div class="medium-6 columns">
                     <label for="stage" class="label-icon left">Expected start date</label>
                     <select>
                       <option>Choose expected start date</option>
@@ -139,7 +139,7 @@
             </div>
 
             <div class="row">
-              <div class="small-1 columns"><label><img src="" /></label></div>
+              <div class="small-1 columns"><label><img src="" class="vhidden" /></label></div>
               <div class="small-10 columns">
                 <input type="submit" class="line-button right" value="SEND">
               </div>

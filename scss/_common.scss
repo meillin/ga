@@ -51,6 +51,14 @@ a {
 	max-width: initial;
 }
 
+.bg-red {
+	background-color: $dirty-red !important;
+}
+
+.vhidden {
+	visibility: hidden;
+}
+
 section {
 	position: relative;
 }

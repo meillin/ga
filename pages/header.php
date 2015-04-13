@@ -31,8 +31,8 @@
             </li>
             <li><a href="customer.php">WHO WE HELP</a></li>
             <li><a href="contact.php">START HERE</a></li>
-            <li><a href="">BLOG</a></li>
-          </ul>
+<!--             <li><a href="">BLOG</a></li>
+ -->          </ul>
       </aside>
 
       <header>
@@ -61,8 +61,8 @@
                 </ul>
               </li>
               <li><a href="customer.php">WHO WE HELP</a></li>
-              <li><a href="contact.php">START HERE</a></li>
-              <li><a href="">BLOG</a></li>
+              <li class="bg-red"><a href="contact.php">START HERE</a></li>
+              <!-- <li><a href="">BLOG</a></li> -->
             </ul>
 
           </section>

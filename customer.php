@@ -49,20 +49,24 @@
           </div>
 
           <div class="circle-container target-group row">
-                <div class="large-3 small-6 columns">
+                <div class="large-3 medium-4 small-6 columns">
                   <div class="circle">
                       <div class="content">
                           <div class="table">
                               <div class="table-cell">
                                   <img src="images/svg/mobile.svg" />
                                   <h2>TELECOM</h2>
-                                  <article>Are you working in telecom / mobile field? We help
-                                  you get the most gross adds from your campaigns.
-                                  <ul>
-                                  <li>Acquisition modeling</li>
-                                  <li>Churn modeling</li>
-                                  <li>ROI analysis</li>
-                                  </ul>
+                                  <article>
+                                    <p>
+                                       Are you working in telecom / mobile field? We help
+                                      you get the most gross adds from your campaigns.
+                                    </p>
+
+                                    <ul>
+                                      <li>Acquisition modeling</li>
+                                      <li>Churn modeling</li>
+                                      <li>ROI analysis</li>
+                                    </ul>
                                   </article>
                               </div>
                           </div>
@@ -70,7 +74,7 @@
                   </div>
                 </div>
 
-                <div class="large-3 small-6 columns">
+                <div class="large-3 medium-4 small-6 columns">
                   <div class="circle">
                       <div class="content">
                           <div class="table">
@@ -78,7 +82,9 @@
                                 <img src="images/svg/monitor.svg" />
                                 <h2>Media</h2>
                                 <article>
-                                We provide media and advertizing professionals like you the following:
+                                  <p>
+                                    We provide media and advertizing professionals like you the following:
+                                  </p>
                                 <ul>
                                   <li>Media mix optimization</li>
                                   <li>Conjoint analyses</li>
@@ -92,7 +98,7 @@
                   </div>
                 </div>
 
-                <div class="large-3 small-6 columns">
+                <div class="large-3 medium-4 small-6 columns">
                   <div class="circle">
                       <div class="content">
                           <div class="table">
@@ -100,7 +106,9 @@
                                 <img src="images/svg/bank.svg" />
                                 <h2>Banking</h2>
                                 <article>
-                                We help the Banking and Insurance industry get new leads and reduce churn.
+                                  <p>
+                                    We help the Banking and Insurance industry get new leads and reduce churn.
+                                  </p>
                                 <ul>
                                   <li>Lead generation</li>
                                   <li>Churn minimization</li>
@@ -114,7 +122,7 @@
                   </div>
                 </div>
 
-                <div class="large-3 small-6 columns">
+                <div class="large-3 medium-4 small-6 columns">
                   <div class="circle">
                       <div class="content">
                           <div class="table">
@@ -136,7 +144,7 @@
                   </div>
                 </div>
 
-                <div class="large-3 small-6 columns">
+                <div class="large-3 medium-4 small-6 columns">
                   <div class="circle">
                     <div class="content">
                       <div class="table">
@@ -157,7 +165,7 @@
                   </div>
                 </div>
 
-                <div class="large-3 small-6 columns">
+                <div class="large-3 medium-4 small-6 columns">
                   <div class="circle">
                     <div class="content">
                       <div class="table">
@@ -165,7 +173,9 @@
                           <img src="images/svg/fi-shopping-cart.svg" />
                           <h2>Consumer</h2>
                           <article>
-                            (Fast moving) consumer goods is a highly dynamic market. We help you keep up with the pace.
+                            <p>
+                              (Fast moving) consumer goods is a highly dynamic market. We help you keep up with the pace.
+                            </p>
                             <ul>
                               <li>Price optimization</li>
                               <li>Leaflet / display efficiency</li>
@@ -177,7 +187,7 @@
                   </div>
                 </div>
 
-                <div class="large-3 small-6 columns">
+                <div class="large-3 medium-4 small-6 columns">
                   <div class="circle">
                     <div class="content">
                       <div class="table">
@@ -197,7 +207,7 @@
                   </div>
                 </div>
 
-                <div class="large-3 small-6 columns">
+                <div class="large-3 medium-4 small-6 columns">
                 </div>
           </div>
 
