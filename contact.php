@@ -50,7 +50,7 @@
             </div>
           </div>
 
-          <form class="small-12 medium-8 columns medium-centered">
+          <form class="small-12 medium-8 columns medium-centered" action="mail.php">
 
             <div class="row">
                 <div class="small-1 columns">
@@ -78,7 +78,7 @@
                   <label for="phone" class="label-icon"><img src="images/svg/telephone.svg" /></label>
                 </div>
                 <div class="small-10 columns">
-                  <input type="number" name="phone" id="right-label" placeholder="Only if you want us to give you a call">
+                  <input type="tel" name="phone" id="right-label" placeholder="Only if you want us to give you a call">
                 </div>
                 <div class="small-1 columns"><label class="label-require"></label></div>
 
