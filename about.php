@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>Green Analysts - Visualizing the future</title>
-    <link rel="shortcut icon" href="images/favicon.ico" />
+    <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="canonical" href="greenanalysts.com">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="keywords" content="green analysts, roi modeling, machine learning, artificial intelligence, fact based marketing, price optimization, pricing strategies, marketing mix modeling" >

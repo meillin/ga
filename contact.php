@@ -57,7 +57,7 @@
                   <label for="name" class="label-icon"><img src="images/svg/user.svg" /></label>
                 </div>
                 <div class="small-10 columns">
-                  <input type="text" id="right-label" placeholder="Your name" required>
+                  <input type="text" name="name" id="right-label" placeholder="Your name" required>
                 </div>
                 <div class="small-1 columns"><label class="label-require">*</label></div>
             </div>
@@ -67,7 +67,7 @@
                   <label for="email" class="label-icon"><img src="images/svg/mail.svg" /></label>
                 </div>
                 <div class="small-10 columns">
-                  <input type="email" id="right-label" placeholder="Your email" required>
+                  <input type="email" name="email" id="right-label" placeholder="Your email" required>
                 </div>
                 <div class="small-1 columns"><label class="label-require">*</label></div>
             </div>
@@ -78,7 +78,7 @@
                   <label for="phone" class="label-icon"><img src="images/svg/telephone.svg" /></label>
                 </div>
                 <div class="small-10 columns">
-                  <input type="number" id="right-label" placeholder="Only if you want us to give you a call">
+                  <input type="number" name="phone" id="right-label" placeholder="Only if you want us to give you a call">
                 </div>
                 <div class="small-1 columns"><label class="label-require"></label></div>
 
@@ -90,7 +90,7 @@
                   <label for="company" class="label-icon"><img src="images/svg/home.svg" /></label>
                 </div>
                 <div class="small-10 columns">
-                  <input type="text" id="right-label" placeholder="Your company">
+                  <input type="text" name="company" id="right-label" placeholder="Your company">
                 </div>
                 <div class="small-1 columns"><label class="label-require"></label></div>
 
