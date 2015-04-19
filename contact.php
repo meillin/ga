@@ -50,7 +50,7 @@
             </div>
           </div>
 
-          <form class="small-12 medium-8 columns medium-centered" action="mail.php">
+          <form class="small-12 medium-8 columns medium-centered" method="post" action="mail.php">
 
             <div class="row">
                 <div class="small-1 columns">
