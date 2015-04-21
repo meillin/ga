@@ -35,9 +35,8 @@
 
 			<?php include 'pages/header.php';?>
 
-			<section class="main-container clearfix">
-
-				<main class="page-about">
+			<section class="main-container thankyou-page clearfix">
+				<main>
 					<h1>Thank you!</h1>
 					<h2>We'll be in touch!</h2>
 				</main>

@@ -8,6 +8,7 @@ Circles
 		padding: 0;
 	}
 	img {
+		width: 100%;
 		background: $white-cream;
 		border-radius: 50%;
 		padding: 20px;
@@ -53,7 +54,6 @@ Circles
 }
 .table-cell{
 	position: relative;
-	display:table-cell;
-  top: 50%;
-  transform: translateY(-50%);
+	top: 50%;
+	@include transform(translateY(-10%));
 }

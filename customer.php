@@ -6,6 +6,7 @@
     <link rel="shortcut icon" href="images/favicon.ico" />
     <link rel="canonical" href="greenanalysts.com">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="keywords" content="green analysts, roi modeling, machine learning, artificial intelligence, fact based marketing, price optimization, pricing strategies, marketing mix modeling" >
     <meta name="description" content="Green Analysts is a machine learning consulting company specializing in building, customizing and integrating predictive analytics solutions in our clients' decision making process. In short, we help companies identify, quantify and optimize all kinds of revenue generating activities.">
     <!--FACEBOOK-->

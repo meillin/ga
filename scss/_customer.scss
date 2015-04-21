@@ -25,13 +25,14 @@
 
 		.table:after {
 			content: '\2715';
-			position: relative;
+			position: absolute;
 			font-size: rem-calc(15);
 			color: $iron;
-			top: rem-calc(-10);
+			top: 0;
+			right: rem-calc(10);
 			@media #{$medium-only} {
-				top: -15px;
-				right: 10px;
+				top: rem-calc(5);
+				right: rem-calc(15);
 			}
 		}
 
@@ -57,6 +58,11 @@
 		article {
 			display: block;
 		}
+
+		.table-cell{
+			@include transform(translateY(0%));
+		}
+
 
 	}
 }

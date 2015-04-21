@@ -48,19 +48,22 @@
     </section>
 
     <section class="show-for-small-only social text-center">
-       <a href="" target="_blank"><img src="images/svg/social-facebook-line.svg" /></a>
-       <a href="" target="_blank"><img src="images/svg/social-google-plus-line.svg" /></a>
-       <a href="" target="_blank"><img src="images/svg/social-linkedin-line.svg" /></a>
+       <a href="https://www.facebook.com/greenanalysts" target="_blank"><img src="images/svg/social-facebook-line.svg" /></a>
+       <a href="https://www.google.com/+GreenanalystsDK" target="_blank"><img src="images/svg/social-google-plus-line.svg" /></a>
+       <a href="https://www.linkedin.com/company/green-analysts-ab" target="_blank"><img src="images/svg/social-linkedin-line.svg" /></a>
     </section>
 
-    <section class="text-center info">
-      <article class="row">© 2014 · Green Analysts AB · Tel: +45 31 76 61 42 · Company no: 556944-2964 · VAT no: SE556944296401</article>
+    <section class="info">
+        <ul>
+         <li>© 2014 · Green Analysts AB</li>
+         <li><a href="tel:+4531766142">Tel: +45 31 76 61 42</a></li>
+         <li><a href="mailto:mike@greenanalysts.com?Subject=Hello" target="_top">Email: mike@greenanalysts.com</a></li>
+         <li>Company no: 556944-2964</li>
+         <li>VAT no: SE556944296401</li>
+        </ul>
     </section>
   </footer>
 
-  <footer class="row">
-
-  </footer>
   </div>
     <a class="exit-off-canvas"></a>
   </div>

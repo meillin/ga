@@ -36,18 +36,15 @@
 
     <?php include 'pages/header.php';?>
 
-
       <section class="main-container text-center clearfix">
 
         <main>
 
-          <div class="enter-text row">
-            <div class="large-10 large-centered columns">
+          <div class="page-title">
               <h1>Get in touch with us</h1>
               <p>
                 We're always happy to hear about new and old business challenges. Feel free to drop us a line about your specific conundrum and we'll get back to you ASAP!
               </p>
-            </div>
           </div>
 
           <form class="small-12 medium-8 columns medium-centered" method="post" action="mail.php">
@@ -152,5 +149,6 @@
       </section>
 
       <?php include 'pages/footer.php';?>
+
   </body>
 </html>

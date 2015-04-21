@@ -68,10 +68,12 @@ section {
  */
 .main-container {
 	width: 100%;
-
+	margin-bottom: rem-calc(20);
+	@media #{$medium-up} {
+		margin-top: rem-calc(50);
+	}
 	h1 {
 		font-size: $h4-font-size;
-		margin-top: 20px;
 		@media #{$small} {
 			font-size: $h1-font-size;
 		}
@@ -89,20 +91,6 @@ section {
 	}
 }
 
-.enter-text {
-	h3 {
-		color: $oil;
-		padding: 1em 0;
-	}
-}
-
-main {
-	@media #{$medium-up} {
-		margin-top: rem-calc(50);
-	}
-	margin-bottom: rem-calc(20);
-}
-
 /*
 Background image for the main
  */
@@ -118,5 +106,10 @@ Background image for the main
 		background: $green;
 		color: $white;
 	}
+}
+
+.thankyou-page {
+	height: 400px;
+	min-height: 400px;
 }
 
