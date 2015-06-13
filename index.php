@@ -35,7 +35,7 @@
 
     <div class="row hide-for-medium-up">
       <div class="large-12 columns">
-          <h1>WE HELP YOU TO MAKE MORE MONEY</h1>
+          <h1>WE HELP YOU OPTIMIZE YOUR SALES</h1>
       </div>
       <hr />
     </div>
