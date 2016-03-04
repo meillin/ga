@@ -24,15 +24,15 @@
         <article class="small-8 columns">
           <h5>Contact</h5>
           <div class="vcard">
-            <div class="fn org">Green Analysts</div>
+            <div class="fn org">Modeling.Green</div>
             <div class="adr">
-              <div class="street-address">Dronningens tværgade 36</div>
+              <div class="street-address">Dronningens Tværgade 36</div>
               <span class="postal-code">1302</span>
-              <span class="locality">Copenhagen</span>
+              <span class="locality">Copenhagen C</span>
               <div class="country-name">Denmark</div>
             </div>
             <div class="tel">+45 31 76 61 42</div>
-            <a class="email" href="mailto:mike@greenanalysts.com">mike@greenanalysts.com</a>
+            <a class="email" href="mailto:mike@modeling.green">mike@modeling.green</a>
           </div>
         </article>
 
