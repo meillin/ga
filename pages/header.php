@@ -42,7 +42,7 @@
               <h1>
                 <a href="index.php">
                   <img class="logo left" src="images/logo-white.svg" alt="green analysts" width="30"/>
-                  <span class="show-for-large-up left">GREEN ANALYSTS</span>
+                  <span class="show-for-large-up left">MODELING.GREEN</span>
                 </a>
               </h1>
             </li>
@@ -68,4 +68,3 @@
           </section>
         </nav>
       </header>
-
